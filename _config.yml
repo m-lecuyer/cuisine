@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Cuisine tips'
+bio:              ''
+tagline:          ''
+description:      ''
+url:              http://cuisine.lecuyer.me
+
+author:
+  name:           'Famille Lecuyer'
+
+paginate:         1
+paginate_path:    /blog/page:num
+
+# Custom vars
+version:          0.1
