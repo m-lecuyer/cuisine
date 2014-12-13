@@ -6,17 +6,26 @@ icon: chef-hat-small.png
 ---
 
 <p class="message">
-I am a French New Yorker, and Computer Science student at Columbia University.
-Among many other things, I like to build stuff, learn new programming languages,
-travel, and do rock climbing. I also love to read, on topics ranging from econ to
-history and policy.
+Un site pour partager no recettes, trucs et astuces de cuisine, et trouver des
+idees pour le prochain repas.
 </p>
 
-You can learn more about my [research](/research) and some projects I worked on:
+Le site est organise en differentes cathegories, qui rassemblent chacunes
+plusieurs recettes:
 
-* [XRay](/research#xray), a transparency system for web services
+- [Techniques](/techniques): recettes pour composants de base, trucs et astuces
+  generaux.
+- [Aperitifs](/aperitifs)
+- [Viandes](/viandes)
+- [Poissons](/poissons)
+- [Legumes](/legumes) et accompagnements.
+- [Desserts](/desserts)
 
-You can also follow me on [Twitter]({{ site.twitter.profile }}) or check my
-projects on [Github]({{ site.github.profile }}).
-If you're trying to contact me, email is the best: *my-first-name &#60;at&#62;
-cs.columbia.edu*
+Pour participer:
+
+- M'envoyer un email avec la recette/le texte/une image.
+- Ajouter la recette ou les pages sur GitHub:
+ - Se faire un compte [GitHub](https://github/com).
+ - Aller sur le [projet](https://github.com/matlecu/cuisine) de ce site.
+ - Cliquer sur la cathegorie correspondante (e.g. desserts.md).
+ - Cliquer sur le petit crayon, editer, et valider.
