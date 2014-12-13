@@ -2,7 +2,7 @@
 layout: page
 title: Aperitifs
 order: 0
-icon: aperitifs-small.png
+icon: aperitifs2-small.png
 ---
 
 [Gougeres au fromage](/aperitifs#gougeres)
