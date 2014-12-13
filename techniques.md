@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Techniques
-order: 1
+order: -1
 icon: techniques-small.png
 ---
 
