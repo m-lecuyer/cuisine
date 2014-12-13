@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Salades
-order: 3
+title: Entrees
+order: 1
 icon: salad-small.png
 ---
 
-[Quinoa](/salades#quinoa)
+[Quinoa](/entrees#quinoa)
 
 
 ### <a name="quinoa"></a> Quinoa

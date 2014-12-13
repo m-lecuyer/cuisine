@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accueil
-order: 0
+order: -1
 icon: chef-hat-small.png
 ---
 

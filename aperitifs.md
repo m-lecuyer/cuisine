@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Aperitifs
-order: 1
+order: 0
 icon: aperitifs-small.png
 ---
 
