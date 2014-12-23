@@ -143,7 +143,7 @@ de noix si on aime.
 
 ### <a name="gateau-poire-chocolat"></a> Gâteau poire-chocolat
 
-
+<img src="/public/gateau-poire-chocolat.jpg" height="319" width="512">
 
 Ingrédients / pour 8 personnes:
 
@@ -155,4 +155,12 @@ Ingrédients / pour 8 personnes:
 - 1 sachet de levure
 - 4 belles poires au sirop
 
+Preparation:
 
+- Préchauffer le four à 180°C.
+- Faire fondre le chocolat avec le beurre au micro-ondes (2 minutes).
+- Ajouter le sucre et mélanger.
+- Séparer les jaunes des blancs et ajouter les jaunes à la préparation. Puis, mettre la farine et la levure.
+- Battre les blancs en neige avec une pincée de sel et les incorporer à la préparation.
+- Enfin, égoutter les poires au sirop, les couper en dés et les ajouter à la préparation.
+- Faire cuire 40 minutes au four à 180°C. Démouler le gâteau à la sortie du four.
