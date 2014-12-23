@@ -5,7 +5,7 @@ order: 4
 icon: whisk-small.png
 ---
 
-[Gateau au chocolat](/desserts#gateau-chocolat)
+[Gâteau au chocolat](/desserts#gateau-chocolat)
 - [Fondant au chocolat](/desserts#fondant)
 - [Cookies](/desserts#cookies)
 - [Galette des rois](/desserts#galette)
@@ -15,11 +15,13 @@ icon: whisk-small.png
 - [Gâteau aux amandes](/desserts#gateau-amandes)
 - [Gâteau poire-chocolat](/desserts#gateau-poire-chocolat)
 
-### <a name="gateau-chocolat"></a> Gateau au chocolat
+### <a name="gateau-chocolat"></a> Gâteau au chocolat
 
 J'utilise [cette recette](http://www.750g.com/fondant-chocolat-r15151.htm), elle
-est vraiment bonne, et comme le gateau cuit longtemps c'est facile a ne pas trop
+est vraiment bonne, et comme le gateau cuit longtemps c'est facile à ne pas trop
 cuire.
+
+_______________________
 
 ### <a name="fondant"></a> Fondant au chocolat
 
@@ -31,18 +33,22 @@ cuire.
 - Pas de levure
 - Four 180° ventilé ou 200 °non ventilé, durée : 5min en individuel, un peu + longtemps sinon.
 
+_______________________
+
 ### <a name="cookies"></a> Cookies
 
 Une [recette](http://www.fransfavs.com/2012/07/levain-bakery-chocolate-chip-walnut-cookie-clone/) proche des fameux cookies de [Levain Bakery](http://www.levainbakery.com/).
 
+_______________________
+
 ### <a name="galette"></a> Galette des rois
 
-J'achete la pate feuilletee, et j'utilise cette
+J'achete la pate feuilletée, et j'utilise cette
 [recette](http://www.marmiton.org/recettes/recette_galette-des-rois_10832.aspx).
-En general, je ne mets pas d'extrait d'amande amere, et je rajoute 50% de
+En général je ne mets pas d'extrait d'amande amère, et je rajoute 50% de
 frangipane :).
 
-**Recette altenative de mam:**
+**Recette alternative de mam:**
 
 - La recette de la galette:
 - 2 ronds de pâte feuilletée
@@ -55,6 +61,8 @@ frangipane :).
 - Souder les deux ronds en appuyant sur le pourtour.
 - Badigeonner avec le jaune du 3ème oeuf. Faire un quadrillage à la fourchette.
 - Faire cuire +/- 30 min dans le four chauffé à 200 °.
+
+_______________________
 
 ### <a name="tarte-citron"></a> Tarte au citron meringuée
 
@@ -91,6 +99,8 @@ Préparation:
 - Versez la crème sur la pâte, puis par-dessus le reste de la meringue et enfournez pendant 20 minutes environ.
 - Laissez refroidir et servez tiède ou froid.
 
+_______________________
+
 ### <a name="tarte-pommes-amandes"></a> Tarte pommes-amandes
 
 Ingrédients / pour 6 personnes:
@@ -103,7 +113,7 @@ Ingrédients / pour 6 personnes:
 - 20 cl de crème à 20 % de M.G.
 - 1 cuillère à soupe de beurre salé
 
-Preparation:
+Préparation:
 
 - Préchauffer le four sur 200°C. Pendant ce temps, nettoyer les pommes : éplucher, ôter le milieu et les couper en quartiers pas trop fins.
 - Précuire le fond de tarte rempli de pois secs 10 minutes environ et réserver.
@@ -113,6 +123,8 @@ Preparation:
 - Tapisser le fond de tarte de poudre d'amandes et verser le mélange aux pommes par dessus.
 - Pour finir, enfourner 20 minutes.
 
+_______________________
+
 ### <a name="brownies"></a> Brownies
 
 - 75 g de beurre
@@ -121,12 +133,14 @@ Preparation:
 - 175 g de sucre ou moins
 - Sucre vanillé
 - 75 g de farine + levure
-- 50 g de norx
+- 50 g de noix
 - Mélanger le tout, enfourner pour +/- 40 min. à four th. 5 / 6 soit 170 °.
 - Après cuisson, démouler et découper en petits carrés, saupoudrer de sucre glace ...
 
 Doubler les prop pour des gourmands !! Et il peut y avoir beaucoup plus
 de noix si on aime.
+
+_______________________
 
 ### <a name="gateau-amandes"></a> Gâteau aux amandes
 
@@ -136,10 +150,10 @@ de noix si on aime.
 - 4 œufs
 - 150 g de beurre
 - Levure chimique
-- Dans une terrine, travailler le beurre en crème avec le sucre, les amandes, la
-- farine, la levure et les œufs battus. La pâte doit être légère.
-- Faites cuire à four th 5 ( environ 150 °) pendant 30 min environ. La pointe du
-- couteau doit ressortir sèche.
+- Dans une terrine, travailler le beurre en crème avec le sucre, les amandes, la farine, la levure et les œufs battus. La pâte doit être légère.
+- Faites cuire à four th 5 ( environ 150 °) pendant 30 min environ. La pointe du couteau doit ressortir sèche.
+
+_______________________
 
 ### <a name="gateau-poire-chocolat"></a> Gâteau poire-chocolat
 
@@ -155,7 +169,7 @@ Ingrédients / pour 8 personnes:
 - 1 sachet de levure
 - 4 belles poires au sirop
 
-Preparation:
+Préparation:
 
 - Préchauffer le four à 180°C.
 - Faire fondre le chocolat avec le beurre au micro-ondes (2 minutes).
