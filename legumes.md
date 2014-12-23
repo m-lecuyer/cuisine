@@ -25,6 +25,8 @@ _______________________
 
 ### <a name="potee"></a> Potée
 
+Cette [recette](http://www.odelices.com/recette/potee-de-chou-vert-aux-pommes-de-terre-et-saucisses-hollande-r3226/) de potée de chou vert aux pommes de terre et saucisses est un régal en hiver. On laisse souvent mijoter un peu plus longtemps que ce que dit la recette (un peu plus d'une heure) pour que le chou soit plus fondant, et on utilise des saucisses fumées qui donnent beaucoup de goût !
+
 _______________________
 
 ### <a name="chorizo-lentilles"></a> Chorizo Lentilles
