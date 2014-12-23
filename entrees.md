@@ -15,7 +15,7 @@ icon: salad-small.png
 A mélanger et déguster avec une vinaigrette au vinaigre balsamique (et
 éventuellement un peu de coriandre):
 
-- Quinoa
+- Quinoa (qu'on aura laissé refroidir un peu après la cuisson)
 - Avocat
 - Concombre en dés
 - Olives vertes
