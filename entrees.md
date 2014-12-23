@@ -17,7 +17,7 @@ A mélanger et déguster avec une vinaigrette au vinaigre balsamique (et
 
 - Quinoa
 - Avocat
-- Comcombre
+- Concombre en dés
 - Olives vertes
 - Feta
 
