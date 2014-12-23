@@ -10,7 +10,10 @@ pizza](/techniques#pate-pizza) - [Blanchir les legumes](/techniques#blanchir)
 
 
 ### <a name="pate-quiche"></a> Pate a quiches
+Tres simple:
+- 200g de farine
+- 
 
 ### <a name="pate-pizza"></a> Pate a pizza
 
-### <a name="blachir"></a> Blanchir les legumes
+### <a name="blanchir"></a> Blanchir les legumes
