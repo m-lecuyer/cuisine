@@ -13,6 +13,7 @@ icon: whisk-small.png
 - [Tarte pommes-amandes](/desserts#tarte-pommes-amandes)
 - [Brownies](/desserts#brownies)
 - [Gâteau aux amandes](/desserts#gateau-amandes)
+- [Gâteau poire-chocolat](/desserts#gateau-poire-chocolat)
 
 ### <a name="gateau-chocolat"></a> Gateau au chocolat
 
@@ -139,3 +140,19 @@ de noix si on aime.
 - farine, la levure et les œufs battus. La pâte doit être légère.
 - Faites cuire à four th 5 ( environ 150 °) pendant 30 min environ. La pointe du
 - couteau doit ressortir sèche.
+
+### <a name="gateau-poire-chocolat"></a> Gâteau poire-chocolat
+
+
+
+Ingrédients / pour 8 personnes:
+
+- 200 g de chocolat à cuire
+- 150 g de beurre
+- 120 g de sucre
+- 3 œufs
+- 130 g de farine
+- 1 sachet de levure
+- 4 belles poires au sirop
+
+
