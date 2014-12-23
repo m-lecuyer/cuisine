@@ -47,6 +47,8 @@ Préparation:
 
 Une recette très facile à faire. Appréciée en entrée, avec une salade d'endives par exemple, elle a aussi beaucoup de succès en petits carrés à l'apéritif !
 
+<img src="/public/tarte-tomate-moutarde.jpg" height="128" width="128">
+
 Ingrédients / pour 6 personnes:
 
 - 1 pâte feuilletée
@@ -56,3 +58,10 @@ Ingrédients / pour 6 personnes:
 - 2 tranches de jambon blanc coupées en lamelles (ça se vend pré-découpé et c'est bien pratique)
 - 100 g de gruyère râpé
 - sel et poivre
+
+Preparation:
+
+- Préchauffer le four à 200-220°C. Mettre la pâte dans le moule. Etaler la moutarde uniformément dans le fond.
+- Poser au-dessus uniformément le jambon (coupé en lamelles) et les tomates (coupées en rondelles, en évitant de mettre trop de jus pour ne pas détremper la pâte).
+- Mettre la crème fraîche mélangée avec du sel et du poivre au-dessus, puis recouvrir de gruyère râpé.
+- Pour finir, mettre au four environ une demi-heure.
