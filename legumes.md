@@ -7,7 +7,7 @@ icon: legumes-small.png
 
 [Ratatouille](/legumes#ratatouille)
 - [Pot-au-feu](/legumes#potaufeu)
-- [Potee](/legumes#potee)
+- [Potée](/legumes#potee)
 - [Chorizo Lentilles](/legumes#chorizo-lentilles)
 
 
