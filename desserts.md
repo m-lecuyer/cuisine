@@ -136,10 +136,8 @@ de noix si on aime.
 - 4 œufs
 - 150 g de beurre
 - Levure chimique
-- Dans une terrine, travailler le beurre en crème avec le sucre, les amandes, la
-- farine, la levure et les œufs battus. La pâte doit être légère.
-- Faites cuire à four th 5 ( environ 150 °) pendant 30 min environ. La pointe du
-- couteau doit ressortir sèche.
+- Dans une terrine, travailler le beurre en crème avec le sucre, les amandes, la farine, la levure et les œufs battus. La pâte doit être légère.
+- Faites cuire à four th 5 ( environ 150 °) pendant 30 min environ. La pointe du couteau doit ressortir sèche.
 
 ### <a name="gateau-poire-chocolat"></a> Gâteau poire-chocolat
 
