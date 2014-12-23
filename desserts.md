@@ -10,6 +10,9 @@ icon: whisk-small.png
 - [Cookies](/desserts#cookies)
 - [Galette des rois](/desserts#galette)
 - [Tarte au citron meringuée](/desserts#tarte-citron)
+- [Tarte pommes-amandes](/desserts#tarte-pommes-amandes)
+- [Brownies](/desserts#brownies)
+- [Gâteau aux amandes](/desserts#gateau-amandes)
 
 ### <a name="gateau-chocolat"></a> Gateau au chocolat
 
@@ -31,12 +34,26 @@ cuire.
 
 Une [recette](http://www.fransfavs.com/2012/07/levain-bakery-chocolate-chip-walnut-cookie-clone/) proche des fameux cookies de [Levain Bakery](http://www.levainbakery.com/).
 
-### <a name="cookies"></a> Galette des rois
+### <a name="galette"></a> Galette des rois
 
 J'achete la pate feuilletee, et j'utilise cette
 [recette](http://www.marmiton.org/recettes/recette_galette-des-rois_10832.aspx).
 En general, je ne mets pas d'extrait d'amande amere, et je rajoute 50% de
 frangipane :).
+
+**Recette altenative de mam:**
+
+- La recette de la galette:
+- 2 ronds de pâte feuilletée
+- 1 fève
+- 200 g de poudre d’amande
+- 100 g de beurre
+- 2 œufs ou 3
+- Mélanger la poudre avec le beurre mou, le sucre et les 2 oeufs.
+- Etaler un rond, le garnir du mélange de frangipane, ajouter la fève, humecter le bord avec de l’eau, recouvrir du 2ème rond.
+- Souder les deux ronds en appuyant sur le pourtour.
+- Badigeonner avec le jaune du 3ème oeuf. Faire un quadrillage à la fourchette.
+- Faire cuire +/- 30 min dans le four chauffé à 200 °.
 
 ### <a name="tarte-citron"></a> Tarte au citron meringuée
 
@@ -72,3 +89,53 @@ Préparation:
 - Prenez la moitié de cette meringue et incorporez-la à la crème au citron.
 - Versez la crème sur la pâte, puis par-dessus le reste de la meringue et enfournez pendant 20 minutes environ.
 - Laissez refroidir et servez tiède ou froid.
+
+### <a name="tarte-pommes-amandes"></a> Tarte pommes-amandes
+
+Ingrédients / pour 6 personnes:
+
+- 1 pâte feuilletée toute prête
+- 4 grosses pommes Jonagold
+- 5 cuillères à soupe de poudre d'amandes
+- 1 petit sachet de sucre vanillé
+- 5 cuillères à soupe de sucre
+- 20 cl de crème à 20 % de M.G.
+- 1 cuillère à soupe de beurre salé
+
+Preparation:
+
+- Préchauffer le four sur 200°C. Pendant ce temps, nettoyer les pommes : éplucher, ôter le milieu et les couper en quartiers pas trop fins.
+- Précuire le fond de tarte rempli de pois secs 10 minutes environ et réserver.
+- Faire fondre le beurre dans une casserole et y déposer les pommes. Les laisser fondre à feu doux 15 minutes.
+- Ajouter le sucre vanillé, le sucre, la crème et monter la température.
+- Surveiller jusqu'à l'épaississement de la crème. Elle devient un peu comme du lait concentré en boîte.
+- Tapisser le fond de tarte de poudre d'amandes et verser le mélange aux pommes par dessus.
+- Pour finir, enfourner 20 minutes.
+
+### <a name="brownies"></a> Brownies
+
+- 75 g de beurre
+- 100 g de chocolat
+- 2 œufs
+- 175 g de sucre ou moins
+- Sucre vanillé
+- 75 g de farine + levure
+- 50 g de norx
+- Mélanger le tout, enfourner pour +/- 40 min. à four th. 5 / 6 soit 170 °.
+- Après cuisson, démouler et découper en petits carrés, saupoudrer de sucre glace ...
+
+Doubler les prop pour des gourmands !! Et il peut y avoir beaucoup plus
+de noix si on aime.
+
+### <a name="gateau-amandes"></a> Gâteau aux amandes
+
+- 250 g de sucre
+- 125 g d’amandes en poudre
+- 100 g de farine
+- 4 œufs
+- 150 g de beurre
+- Levure chimique
+- Dans une terrine, travailler le beurre en crème avec le sucre, les amandes, la
+- farine, la levure et les œufs battus. La pâte doit être légère.
+- Faites cuire à four th 5 ( environ 150 °) pendant 30 min environ. La pointe du
+- couteau doit ressortir sèche.
