@@ -13,6 +13,10 @@ icon: legumes-small.png
 
 ### <a name="ratatouille"></a> Ratatouille
 
+Si vous avez quelques courgettes, aubergines, poivrons et tomates dans votre réfrigérateur, il suffit d'y ajouter un oignon et une feuille de laurier pour faire une délicieuse [ratatouille](http://www.odelices.com/recette/ratatouille-provencale-r1051/) !
+
+Servie avec un peu de riz et une tranche de filet de porc, c'est un plat qui laisse un doux fumet dans la cuisine...
+
 _______________________
 
 ### <a name="potaufeu"></a> Pot-au-feu
