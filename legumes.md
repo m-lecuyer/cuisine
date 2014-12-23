@@ -21,6 +21,10 @@ _______________________
 
 ### <a name="potaufeu"></a> Pot-au-feu
 
+Pour réaliser un bon [pot-au-feu](http://www.odelices.com/recette/pot-au-feu-r1251/), il suffit de poireaux, carottes, navets, oignons, de quelques herbes pour donner du goût, et de la viande de boeuf en morceaux (ou des saucisses fumées pour changer). En général on coupe les légumes en morceaux un peu moins gros que ce que suggère la recette. On n'a encore jamais testé avec une branche de céleri et des clous de girofle, mais ça ne saurait tarder.
+
+Par contre il faut s'y prendre 3-4 heures à l'avance pour que tout ait le temps de bien cuire. Et si on veut rajouter des pommes de terre, il faut les rajouter seulement 30 min avant la fin de la cuisson.
+
 _______________________
 
 ### <a name="potee"></a> Potée
