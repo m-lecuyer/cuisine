@@ -10,6 +10,8 @@ icon: meat3-small.png
 
 ### <a name="brisket"></a> Brisket
 
+_______________________
+
 ### <a name="filet-mignon"></a> Filet mignon de porc au lait de coco
 
 Il faut:
@@ -20,7 +22,6 @@ Il faut:
 - 1 boîte de lait de coco,
 - un demi jus de citron vert,
 - curry, gingembre, piment doux, cumin.
-
 
 Découper les filets mignons en morceaux de +/- 2 cm et les faire revenir avec
 les oignons, saler, poivrer.

@@ -43,6 +43,8 @@ Préparation:
 - Verser par dessus la crème.
 - Enfourner dans un four chaud à 180°C pendant 45 mn environ.
 
+_______________________
+
 ### <a name="tarte-tomate-moutarde"></a> Tarte tomate / moutarde
 
 Une recette très facile à faire. Appréciée en entrée, avec une salade d'endives par exemple, elle a aussi beaucoup de succès en petits carrés à l'apéritif !

@@ -34,6 +34,8 @@ cassonade
 - Le jour J, réchauffez et servez le délicieux nectar de ce Vin Chaud de Noël à
 vos convives !
 
+_______________________
+
 ### <a name="planteur"></a> Le vrai PLANTEUR
 
 Pour 10 personnes:

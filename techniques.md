@@ -29,6 +29,10 @@ Je mets du sel assez gros, ça fait des petits bouts croquants salés dans la p�
 - laisser reposer 15/30 min au réfrigérateur (pendant qu'on prépare
   la garniture pour une quiche par exemple)
 
+_______________________
+
 ### <a name="pate-pizza"></a> Pâte à pizza
+
+_______________________
 
 ### <a name="blanchir"></a> Blanchir les légumes
