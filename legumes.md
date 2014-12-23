@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Legumes
+title: Légumes
 order: 3
 icon: legumes-small.png
 ---
@@ -15,8 +15,8 @@ icon: legumes-small.png
 
 ### <a name="potaufeu"></a> Pot-au-feu
 
-### <a name="potee"></a> Potee
+### <a name="potee"></a> Potée
 
 ### <a name="chorizo-lentilles"></a> Chorizo Lentilles
 
-Voila la recette du [Chorizo Lentilles](/public/chorizo-lentilles.pdf).
+Voilà la recette du [Chorizo Lentilles](/public/chorizo-lentilles.pdf).
