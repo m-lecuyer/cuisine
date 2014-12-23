@@ -16,8 +16,9 @@ plusieurs recettes:
 - [Techniques](/techniques): recettes pour composants de base, trucs et astuces
   généraux.
 - [Apéritifs](/aperitifs)
-- [Viandes](/viandes)
+- [Entrées](/entrees)
 - [Poissons](/poissons)
+- [Viandes](/viandes)
 - [Légumes](/legumes) et accompagnements.
 - [Desserts](/desserts)
 - [Boissons](/boissons)
