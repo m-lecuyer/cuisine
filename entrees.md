@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Entrees
+title: Entrées
 order: 1
 icon: salad-small.png
 ---
@@ -12,8 +12,8 @@ icon: salad-small.png
 
 ### <a name="quinoa"></a> Salade au Quinoa
 
-A melanger et deguster avec une vinaigrette au vinaigre balsamique (et
-eventuellement un peu de coriandre):
+A mélanger et déguster avec une vinaigrette au vinaigre balsamique (et
+éventuellement un peu de coriandre):
 
 - Quinoa
 - Avocat
@@ -61,7 +61,7 @@ Ingrédients / pour 6 personnes:
 - 100 g de gruyère râpé
 - sel et poivre
 
-Preparation:
+Préparation:
 
 - Préchauffer le four à 200-220°C. Mettre la pâte dans le moule. Etaler la moutarde uniformément dans le fond.
 - Poser au-dessus uniformément le jambon (coupé en lamelles) et les tomates (coupées en rondelles, en évitant de mettre trop de jus pour ne pas détremper la pâte).
