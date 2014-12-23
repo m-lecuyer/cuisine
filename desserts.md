@@ -6,6 +6,7 @@ icon: whisk-small.png
 ---
 
 [Gateau au chocolat](/desserts#gateau-chocolat)
+- [Fondant au chocolat](/desserts#fondant)
 - [Cookies](/desserts#cookies)
 - [Galette des rois](/desserts#galette)
 - [Tarte au citron meringuée](/desserts#tarte-citron)
@@ -15,6 +16,16 @@ icon: whisk-small.png
 J'utilise [cette recette](http://www.750g.com/fondant-chocolat-r15151.htm), elle
 est vraiment bonne, et comme le gateau cuit longtemps c'est facile a ne pas trop
 cuire.
+
+### <a name="fondant"></a> Fondant au chocolat
+
+- 250 choco (70 ou 75 % de cacao)
+- 225 beurre
+- 375 œufs (7)
+- 100 farine
+- 300 ou 260 sucre
+- Pas de levure
+- Four 180° ventilé ou 200 °non ventilé, durée : 5min en individuel, un peu + longtemps sinon.
 
 ### <a name="cookies"></a> Cookies
 

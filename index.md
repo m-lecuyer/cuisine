@@ -20,6 +20,7 @@ plusieurs recettes:
 - [Poissons](/poissons)
 - [Legumes](/legumes) et accompagnements.
 - [Desserts](/desserts)
+- [Boissons](/boissons)
 
 Pour participer:
 
