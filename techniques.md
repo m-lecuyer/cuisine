@@ -23,7 +23,7 @@ Préparer à portée de main:
 Je mets du sel assez gros, ça fait des petits bouts croquants salés dans la pâte que j'aime bien. Préparation:
 
 - mettre la farine et le sel dans un saladier
-- ramolir le beurre au mico-onde (juste un peu, sans le faire fondre)
+- ramolir le beurre au micro-onde (juste un peu, sans le faire fondre)
 - mélanger a la main
 - ajouter de l'eau jusqu'a obtenir la bonne consistance (je ne mets pas les 50ml
   en général, plutot 30)
