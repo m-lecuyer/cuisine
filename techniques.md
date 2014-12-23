@@ -11,9 +11,7 @@ pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir)
 
 ### <a name="pate-quiche"></a> Pâte brisée
 
-C'est très simple et rapide.
-
-Préparer à portée de main:
+C'est très simple et rapide. Préparer à portée de main:
 
 - 200g de farine
 - 125g de beurre dans un bol
