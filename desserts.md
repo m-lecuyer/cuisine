@@ -5,7 +5,7 @@ order: 4
 icon: whisk-small.png
 ---
 
-[Gateau au chocolat](/desserts#gateau-chocolat)
+[Gâteau au chocolat](/desserts#gateau-chocolat)
 - [Fondant au chocolat](/desserts#fondant)
 - [Cookies](/desserts#cookies)
 - [Galette des rois](/desserts#galette)
@@ -15,10 +15,10 @@ icon: whisk-small.png
 - [Gâteau aux amandes](/desserts#gateau-amandes)
 - [Gâteau poire-chocolat](/desserts#gateau-poire-chocolat)
 
-### <a name="gateau-chocolat"></a> Gateau au chocolat
+### <a name="gateau-chocolat"></a> Gâteau au chocolat
 
 J'utilise [cette recette](http://www.750g.com/fondant-chocolat-r15151.htm), elle
-est vraiment bonne, et comme le gateau cuit longtemps c'est facile a ne pas trop
+est vraiment bonne, et comme le gateau cuit longtemps c'est facile à ne pas trop
 cuire.
 
 ### <a name="fondant"></a> Fondant au chocolat
@@ -37,12 +37,12 @@ Une [recette](http://www.fransfavs.com/2012/07/levain-bakery-chocolate-chip-waln
 
 ### <a name="galette"></a> Galette des rois
 
-J'achete la pate feuilletee, et j'utilise cette
+J'achete la pate feuilletée, et j'utilise cette
 [recette](http://www.marmiton.org/recettes/recette_galette-des-rois_10832.aspx).
-En general, je ne mets pas d'extrait d'amande amere, et je rajoute 50% de
+En général je ne mets pas d'extrait d'amande amère, et je rajoute 50% de
 frangipane :).
 
-**Recette altenative de mam:**
+**Recette alternative de mam:**
 
 - La recette de la galette:
 - 2 ronds de pâte feuilletée
@@ -103,7 +103,7 @@ Ingrédients / pour 6 personnes:
 - 20 cl de crème à 20 % de M.G.
 - 1 cuillère à soupe de beurre salé
 
-Preparation:
+Préparation:
 
 - Préchauffer le four sur 200°C. Pendant ce temps, nettoyer les pommes : éplucher, ôter le milieu et les couper en quartiers pas trop fins.
 - Précuire le fond de tarte rempli de pois secs 10 minutes environ et réserver.
@@ -121,7 +121,7 @@ Preparation:
 - 175 g de sucre ou moins
 - Sucre vanillé
 - 75 g de farine + levure
-- 50 g de norx
+- 50 g de noix
 - Mélanger le tout, enfourner pour +/- 40 min. à four th. 5 / 6 soit 170 °.
 - Après cuisson, démouler et découper en petits carrés, saupoudrer de sucre glace ...
 
@@ -155,7 +155,7 @@ Ingrédients / pour 8 personnes:
 - 1 sachet de levure
 - 4 belles poires au sirop
 
-Preparation:
+Préparation:
 
 - Préchauffer le four à 180°C.
 - Faire fondre le chocolat avec le beurre au micro-ondes (2 minutes).
