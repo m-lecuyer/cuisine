@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aperitifs
+title: Apéritifs
 order: 0
 icon: aperitifs2-small.png
 ---
