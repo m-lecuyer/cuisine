@@ -22,10 +22,10 @@ Je mets du sel assez gros, ça fait des petits bouts croquants salés dans la p�
 
 - mettre la farine et le sel dans un saladier
 - ramolir le beurre au micro-onde (juste un peu, sans le faire fondre)
-- mélanger a la main
-- ajouter de l'eau jusqu'a obtenir la bonne consistance (je ne mets pas les 50ml
+- mélanger le tout à la main dans le saladier
+- ajouter de l'eau jusqu'à obtenir la bonne consistance (je ne mets pas les 50ml
   en général, plutot 30)
-- faire une boule avec la pâte et l'emballer dans du film plastique
+- faire une boule avec la pâte et l'envelopper dans du film plastique
 - laisser reposer 15/30 min au réfrigérateur (pendant qu'on prépare
   la garniture pour une quiche par exemple)
 
