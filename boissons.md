@@ -6,6 +6,7 @@ icon:   drinks-small.png
 ---
 
 [Vin Chaud de Noël](/boissons#vin-chaud)
+- [Planteur](/boissons#planteur)
 
 ### <a name="vin-chaud"></a> Vin Chaud de Noël
 
@@ -32,3 +33,18 @@ cassonade
 - Passez le vin chaud à travers une passoire, prenez un entonnoir et conservez au frais pendant trois jours dans une bouteille
 - Le jour J, réchauffez et servez le délicieux nectar de ce Vin Chaud de Noël à
 vos convives !
+
+### <a name="planteur"></a> Le vrai PLANTEUR
+
+Pour 10 personnes:
+
+- 5 dl de jus d’orange
+- 5 dl de jus de goyave
+- 5 dl de jus d’ananas
+- 3 dl de rhum vieux
+- 3 dl de rhum blanc
+- 3 dl de sirop de sucre de canne
+- 2 pincées de noix de muscade
+- Cannelle, vanille.
+
+Mélanger le tout, laisser macérer au moins 12 h.
