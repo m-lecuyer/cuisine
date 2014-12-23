@@ -5,31 +5,32 @@ order: -1
 icon: techniques-small.png
 ---
 
-[Pate a quiche](/techniques#pate-quiche) - [Pate a
-pizza](/techniques#pate-pizza) - [Blanchir les legumes](/techniques#blanchir)
+[Pâte brisée](/techniques#pate-quiche) - [Pâte à
+pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir)
 
 
-### <a name="pate-quiche"></a> Pate a quiches
+### <a name="pate-quiche"></a> Pâte brisée
 
-C'est tres simple et rapide.
+C'est très simple et rapide.
 
-Preparer a portee de main:
+Préparer à portée de main:
 
 - 200g de farine
 - 125g de beurre dans un bol
 - 50ml d'eau
-- 1/2 petite cuillere de sel
+- 1/2 cuillère à café de sel
 
-Je mets du sels assez gros, ca fait des petits bouts croquants sales dans la pate que j'aime bien. Preparation:
+Je mets du sel assez gros, ça fait des petits bouts croquants salés dans la pâte que j'aime bien. Préparation:
 
 - mettre la farine et le sel dans un saladier
-- ramolire de beurre au mico-onde (ne pas le faire fondre, juste ramolir un peu)
-- melander a la main
+- ramolir le beurre au mico-onde (juste un peu, sans le faire fondre)
+- mélanger a la main
 - ajouter de l'eau jusqu'a obtenir la bonne consistance (je ne mets pas les 50ml
-  en general, plutot 30)
-- faire reposer 15/30min au frigo dans du film plastique (pendant qu'on prepare
-  la garniture)
+  en général, plutot 30)
+- faire une boule avec la pâte et l'emballer dans du film plastique
+- laisser reposer 15/30 min au réfrigérateur (pendant qu'on prépare
+  la garniture pour une quiche par exemple)
 
-### <a name="pate-pizza"></a> Pate a pizza
+### <a name="pate-pizza"></a> Pâte à pizza
 
-### <a name="blanchir"></a> Blanchir les legumes
+### <a name="blanchir"></a> Blanchir les légumes
