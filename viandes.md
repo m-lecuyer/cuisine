@@ -15,7 +15,7 @@ _______________________
 
 ### <a name="filet-mignon"></a> Filet mignon de porc au lait de coco
 
-Il faut:
+Il faut :
 
 - 2 filets mignon,
 - 2 oignons, 2 gousses d'ail,
@@ -28,7 +28,7 @@ Découper les filets mignons en morceaux de +/- 2 cm et les faire revenir avec
 les oignons, saler, poivrer.
 
 Ajouter l'ail, les tomates pelées, la banane et la pomme coupées, 2 cuillères à
-soupe de curry, cumin, gingembre et piment doux si on veut
+soupe de curry, cumin, gingembre et piment doux si on veut.
 
 Ajouter le lait de coco et le jus d'un demi citron vert. Laisser mijoter 45
 minutes.
@@ -46,7 +46,7 @@ _______________________
 
 <img src="/public/roti-porc.jpg" height="312" width="341">
 
-Ingrédients:
+Ingrédients :
 
 - 1 Rôti de porc (1kg),
 - 1 ananas en tranches,
@@ -64,7 +64,7 @@ Ingrédients:
 - courgettes,
 - pommes de terre.
 
-Préparation:
+Préparation :
 
 Mettre le rôti de porc dans une marinade composée d'un citron coupé en 4, de
 l'ail écrasé, de thym, de gingembre, de miel, d'une cuillère à café de 4 épices et de 3
