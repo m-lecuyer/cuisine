@@ -13,7 +13,7 @@ icon: salad-small.png
 ### <a name="quinoa"></a> Salade au Quinoa
 
 A mélanger et déguster avec une vinaigrette au vinaigre balsamique (et
-éventuellement un peu de coriandre):
+éventuellement un peu de coriandre) :
 
 - Quinoa (qu'on aura laissé refroidir un peu après la cuisson)
 - Avocat
@@ -26,7 +26,7 @@ A mélanger et déguster avec une vinaigrette au vinaigre balsamique (et
 Préparation : 25 mn
 Cuisson : 45 mn
 
-Ingrédients (pour 4 personnes):
+Ingrédients (pour 4 personnes) :
 
 - 1 pâte feuilletée
 - 500 g de brocoli
@@ -35,7 +35,7 @@ Ingrédients (pour 4 personnes):
 - 3 oeufs et 1 jaune d'oeuf
 - sel, poivre
 
-Préparation:
+Préparation :
 
 - Faire cuire les fleurettes de brocolis dans l’eau  ou à la vapeur (le brocoli doit être légèrement croquant à la fin de la cuisson).
 - Mélanger la crème liquide avec les oeufs et le jaune d'oeuf ; saler et poivrer selon votre goût.
@@ -51,7 +51,7 @@ Une recette très facile à faire. Appréciée en entrée, avec une salade d'end
 
 <img src="/public/tarte-tomate-moutarde.jpg" height="128" width="128">
 
-Ingrédients / pour 6 personnes:
+Ingrédients / pour 6 personnes :
 
 - 1 pâte feuilletée
 - 3 ou 4 tomates
@@ -61,7 +61,7 @@ Ingrédients / pour 6 personnes:
 - 100 g de gruyère râpé
 - sel et poivre
 
-Préparation:
+Préparation :
 
 - Préchauffer le four à 200-220°C. Mettre la pâte dans le moule. Etaler la moutarde uniformément dans le fond.
 - Poser au-dessus uniformément le jambon (coupé en lamelles) et les tomates (coupées en rondelles, en évitant de mettre trop de jus pour ne pas détremper la pâte).
