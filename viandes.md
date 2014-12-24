@@ -5,11 +5,29 @@ order: 2
 icon: meat3-small.png
 ---
 
-[Brisket](/viandes#brisket)
+[Slow-roasted brisket](/viandes#brisket)
 - [Filet mignon](/viandes#filet-mignon)
 - [Rôti de porc gros appétits](/viandes#roti-porc)
 
-### <a name="brisket"></a> Brisket
+### <a name="brisket"></a> Slow-roasted brisket à l'américaine
+
+Ingrédients :
+
+- 1kg de poitrine de boeuf (pour 3-4 personnes)
+- 2 gousses d’ail émincées
+- 50g de sucre roux
+- 1 cuillère à café de paprika
+- sel, poivre
+- 1 gros oignon coupé en lamelles
+- 100 ml de vin rouge (notre choix !), de bouillon ou d’eau
+
+1. Préchauffez le four à 160°C. Dans un bol, mélangez l’ail émincé, le sucre roux, le paprika, le sel et le poivre. Etalez à la main ce mélange sur la poitrine de boeuf.
+
+2. Graissez légèrement un plat à four avec un peu d’huile. Déposez-y la poitrine de boeuf et l’oignon coupé en lamelles. Versez le vin rouge dans le plat, et couvrez le tout de papier d’alu de façon bien étanche (ou d’un couvercle si vous en avez un).
+
+3. Déposez le plat dans le four et laisser cuire 3 heures sans interruption. Retirez l’alu et laissez cuire pendant une heure encore, en arrosant régulièrement la viande avec son jus.
+
+4. Une fois que la viande a un peu refroidi, dégraissez le jus, coupez en tranches et servez ! Et pour réchauffer la viande le lendemain, il suffit de la remettre au four 30 min (avec de l’alu de nouveau).
 
 _______________________
 
