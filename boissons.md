@@ -10,7 +10,7 @@ icon:   drinks-small.png
 
 ### <a name="vin-chaud"></a> Vin Chaud de Noël
 
-Ingrédients:
+Ingrédients :
 
 - Un litre de vin rouge
 - 5 centilitres de crème de cassis, de mûre ou de framboise
@@ -22,7 +22,7 @@ Ingrédients:
 - Deux capsules de Cardamome
 - Quatre grains de poivre
 
-Etapes:
+Etapes :
 
 - Mélangez le vin, la crème de cassis/mûre/framboise, les écorces et le sucre
 cassonade
@@ -38,7 +38,7 @@ _______________________
 
 ### <a name="planteur"></a> Le vrai PLANTEUR
 
-Pour 10 personnes:
+Pour 10 personnes :
 
 - 5 dl de jus d’orange
 - 5 dl de jus de goyave
