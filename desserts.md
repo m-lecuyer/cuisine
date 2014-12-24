@@ -14,6 +14,7 @@ icon: whisk-small.png
 - [Brownies](/desserts#brownies)
 - [Gâteau aux amandes](/desserts#gateau-amandes)
 - [Gâteau poire-chocolat](/desserts#gateau-poire-chocolat)
+- [Moelleux au chocolat individuels](/desserts#moelleux-chocolat-individuels)
 
 ### <a name="gateau-chocolat"></a> Gâteau au chocolat
 
@@ -66,7 +67,7 @@ _______________________
 
 ### <a name="tarte-citron"></a> Tarte au citron meringuée
 
-Ingrédients:
+Ingrédients :
 
 - 1 abaisse de pâte sablée
 - 25 cl de lait
@@ -77,13 +78,13 @@ Ingrédients:
 - 50 g de beurre
 - 1 citron non traité
 
-Résumé:
+Résumé :
 
 Vous pouvez confectionner de petites tartelettes en fonçant de pâte sablée des
 petits moules, en suivant la même recette ! Décorez de quelques zestes de
 citron.
 
-Préparation:
+Préparation :
 
 - Préchauffez le four à Th.7 (220°C).
 - Déposez la pâte dans un moule et faites cuire à blanc pendant 25 minutes. Sortez du four et laissez refroidir.
@@ -103,7 +104,7 @@ _______________________
 
 ### <a name="tarte-pommes-amandes"></a> Tarte pommes-amandes
 
-Ingrédients / pour 6 personnes:
+Ingrédients / pour 6 personnes :
 
 - 1 pâte feuilletée toute prête
 - 4 grosses pommes Jonagold
@@ -113,7 +114,7 @@ Ingrédients / pour 6 personnes:
 - 20 cl de crème à 20 % de M.G.
 - 1 cuillère à soupe de beurre salé
 
-Préparation:
+Préparation :
 
 - Préchauffer le four sur 200°C. Pendant ce temps, nettoyer les pommes : éplucher, ôter le milieu et les couper en quartiers pas trop fins.
 - Précuire le fond de tarte rempli de pois secs 10 minutes environ et réserver.
@@ -159,7 +160,7 @@ _______________________
 
 <img src="/public/gateau-poire-chocolat.jpg" height="319" width="512">
 
-Ingrédients / pour 8 personnes:
+Ingrédients / pour 8 personnes :
 
 - 200 g de chocolat à cuire
 - 150 g de beurre
@@ -169,7 +170,7 @@ Ingrédients / pour 8 personnes:
 - 1 sachet de levure
 - 4 belles poires au sirop
 
-Préparation:
+Préparation :
 
 - Préchauffer le four à 180°C.
 - Faire fondre le chocolat avec le beurre au micro-ondes (2 minutes).
@@ -178,3 +179,17 @@ Préparation:
 - Battre les blancs en neige avec une pincée de sel et les incorporer à la préparation.
 - Enfin, égoutter les poires au sirop, les couper en dés et les ajouter à la préparation.
 - Faire cuire 40 minutes au four à 180°C. Démouler le gâteau à la sortie du four.
+
+_______________________
+
+### <a name="moelleux-chocolat-individuels"></a> Moelleux au chocolat individuels
+
+Ingrédients / pour une douzaine de petits moelleux :
+
+- 2 oœufs
+- 50g de sucre
+- 30g de farine
+- 100g de beurre
+- 100g de chocolat noir
+
+Préchauffez le four à 200°C. Dans un saladier, mélangez au fouet 2 œufs entiers avec 50g sucre jusqu'à ce que la préparation blanchisse. Ajoutez 30g de farine et mélangez à nouveau. Dans une casserole, faites fondre à feu doux 100g de beurre et 100g de chocolat noir cassé en morceaux. Hors du feu, versez le contenu du saladier dans la casserole, puis répartissez la pâte dans des moules à muffins. Mettez au four 10 à 12 minutes (pas plus!).
