@@ -21,6 +21,8 @@ Ingrédients :
 - 1 gros oignon coupé en lamelles
 - 100 ml de vin rouge (notre choix !), de bouillon ou d’eau
 
+Préparation :
+
 1. Préchauffez le four à 160°C. Dans un bol, mélangez l’ail émincé, le sucre roux, le paprika, le sel et le poivre. Etalez à la main ce mélange sur la poitrine de boeuf.
 
 2. Graissez légèrement un plat à four avec un peu d’huile. Déposez-y la poitrine de boeuf et l’oignon coupé en lamelles. Versez le vin rouge dans le plat, et couvrez le tout de papier d’alu de façon bien étanche (ou d’un couvercle si vous en avez un).
