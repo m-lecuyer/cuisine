@@ -49,7 +49,7 @@ J'achete la pate feuilletée, et j'utilise cette
 En général je ne mets pas d'extrait d'amande amère, et je rajoute 50% de
 frangipane :).
 
-**Recette alternative de mam:**
+**Recette alternative de mam :**
 
 - La recette de la galette:
 - 2 ronds de pâte feuilletée
