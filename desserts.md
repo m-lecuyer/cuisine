@@ -184,6 +184,8 @@ _______________________
 
 ### <a name="moelleux-chocolat-individuels"></a> Moelleux au chocolat individuels
 
+<img src="/public/moelleux-choc.jpg" height="319" width="512">
+
 Ingrédients / pour une douzaine de petits moelleux :
 
 - 2 oœufs
