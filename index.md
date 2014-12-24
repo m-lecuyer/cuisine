@@ -11,9 +11,9 @@ idées pour le prochain repas.
 </p>
 
 Le site est organisé en différentes catégories, qui rassemblent chacunes
-plusieurs recettes:
+plusieurs recettes :
 
-- [Techniques](/techniques): recettes pour composants de base, trucs et astuces
+- [Techniques](/techniques) : recettes pour composants de base, trucs et astuces
   généraux.
 - [Apéritifs](/aperitifs)
 - [Entrées](/entrees)
@@ -23,13 +23,13 @@ plusieurs recettes:
 - [Desserts](/desserts)
 - [Boissons](/boissons)
 
-Pour participer:
+Pour participer :
 
 - M'envoyer un email avec la recette/le texte/une image.
 
 OU
 
-- Ajouter la recette ou les pages sur GitHub:
+- Ajouter la recette ou les pages sur GitHub :
  - Se créer un compte [GitHub](https://github/com).
  - Aller sur le [projet](https://github.com/matlecu/cuisine) de ce site.
  - Cliquer sur la catégorie correspondante (e.g. desserts.md).
