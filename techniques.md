@@ -11,14 +11,14 @@ pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir)
 
 ### <a name="pate-quiche"></a> Pâte brisée
 
-C'est très simple et rapide. Préparer à portée de main:
+C'est très simple et rapide. Préparer à portée de main :
 
 - 200g de farine
 - 125g de beurre dans un bol
 - 50ml d'eau
 - 1/2 cuillère à café de sel
 
-Je mets du sel assez gros, ça fait des petits bouts croquants salés dans la pâte que j'aime bien. Préparation:
+Je mets du sel assez gros, ça fait des petits bouts croquants salés dans la pâte que j'aime bien. Préparation :
 
 - mettre la farine et le sel dans un saladier
 - ramolir le beurre au micro-onde (juste un peu, sans le faire fondre)
