@@ -10,7 +10,6 @@ icon: legumes-small.png
 - [Potée](/legumes#potee)
 - [Chorizo Lentilles](/legumes#chorizo-lentilles)
 
-
 ### <a name="ratatouille"></a> Ratatouille
 
 Si vous avez quelques courgettes, aubergines, poivrons et tomates dans votre réfrigérateur, il suffit d'y ajouter un oignon et une feuille de laurier pour faire une délicieuse [ratatouille](http://www.odelices.com/recette/ratatouille-provencale-r1051/) !

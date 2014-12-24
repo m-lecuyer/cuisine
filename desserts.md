@@ -195,3 +195,4 @@ Ingrédients / pour une douzaine de petits moelleux :
 - 100g de chocolat noir
 
 Préchauffez le four à 200°C. Dans un saladier, mélangez au fouet 2 œufs entiers avec 50g sucre jusqu'à ce que la préparation blanchisse. Ajoutez 30g de farine et mélangez à nouveau. Dans une casserole, faites fondre à feu doux 100g de beurre et 100g de chocolat noir cassé en morceaux. Hors du feu, versez le contenu du saladier dans la casserole, puis répartissez la pâte dans des moules à muffins. Mettez au four 10 à 12 minutes (pas plus!).
+
