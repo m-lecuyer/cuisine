@@ -11,6 +11,8 @@ icon: meat3-small.png
 
 ### <a name="brisket"></a> Slow-roasted brisket à l'américaine
 
+<img src="/public/brisket.jpg" height="315" width="420">
+
 Ingrédients :
 
 - 1kg de poitrine de boeuf (pour 3-4 personnes)
