@@ -36,3 +36,16 @@ _______________________
 _______________________
 
 ### <a name="blanchir"></a> Blanchir les légumes
+
+Blanchir un aliment c'est simplement le faire bouillir dans l'eau pendant un certain temps. Cela permet de "pré-cuire" l'aliment, pour pouvoir en faire autre chose par la suite.
++On peut vouloir par exemple blanchir un légume pour le faire sauter rapidement à la poêle par la suite. Cela donne un légume bien cuit à l'intérieur et doré à l'extérieur. 
+D'après ce que je lis sur Internet, blanchir des légumes permet de mieux conserver leur couleur et leur goût.
+
+Attention à ne pas laisser trop longtemps dans l'eau bouillante, sinon il y a un risque de se retrouver avec une purée !
+Voici quelques exemples de temps de blanchiment, même si ce temps dépend beaucoup de la taille des morceaux :
+- Brocoli: 3-4 min
+- Haricots vers: 8 min
+- Courgettes: 5-6 min
+- Pommes de terre: 4-5 min (pour faire de bonnes patates sautées sans les faire crâmer mais cuites à l'intérieur!)
+- Viande: (pour la pré-cuire avant de la faire griller par ex)
+- etc
