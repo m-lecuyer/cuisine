@@ -43,6 +43,7 @@ D'après ce que je lis sur Internet, blanchir des légumes permet de mieux conse
 
 Attention à ne pas laisser trop longtemps dans l'eau bouillante, sinon il y a un risque de se retrouver avec une purée !
 Voici quelques exemples de temps de blanchiment, même si ce temps dépend beaucoup de la taille des morceaux :
+
 - Brocoli: 3-4 min
 - Haricots vers: 8 min
 - Courgettes: 5-6 min
