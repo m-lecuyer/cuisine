@@ -38,7 +38,8 @@ _______________________
 ### <a name="blanchir"></a> Blanchir les légumes
 
 Blanchir un aliment c'est simplement le faire bouillir dans l'eau pendant un certain temps. Cela permet de "pré-cuire" l'aliment, pour pouvoir en faire autre chose par la suite.
-+On peut vouloir par exemple blanchir un légume pour le faire sauter rapidement à la poêle par la suite. Cela donne un légume bien cuit à l'intérieur et doré à l'extérieur. 
+
++ On peut vouloir par exemple blanchir un légume pour le faire sauter rapidement à la poêle par la suite. Cela donne un légume bien cuit à l'intérieur et doré à l'extérieur. 
 D'après ce que je lis sur Internet, blanchir des légumes permet de mieux conserver leur couleur et leur goût.
 
 Attention à ne pas laisser trop longtemps dans l'eau bouillante, sinon il y a un risque de se retrouver avec une purée !
