@@ -15,3 +15,6 @@ Voilà une super [recette](http://www.lacuisinedebernard.com/2011/07/les-gougere
 ### <a name="bruschettas"></a> Bruschettas
 
 Petits amuse-gueules sympa, qui peuvent même tenir lieu d'apéritif dinatoire car c'est plutôt nourrissant!
+
+<img src="https://cloud.githubusercontent.com/assets/10600852/5811275/2d5a606a-a022-11e4-9617-1ecb2fea353a.jpg" height="315" width="315">
+
