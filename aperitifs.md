@@ -16,5 +16,17 @@ Voilà une super [recette](http://www.lacuisinedebernard.com/2011/07/les-gougere
 
 Petits amuse-gueules sympa, qui peuvent même tenir lieu d'apéritif dinatoire car c'est plutôt nourrissant!
 
+- Préparation: 15 min
+- Cuisson: 10 min
+
 <img src="https://cloud.githubusercontent.com/assets/10600852/5811275/2d5a606a-a022-11e4-9617-1ecb2fea353a.jpg" height="315" width="315">
 
+Avec ces quantités, j'ai obtenu une bonne quainzaine de bruschettas.
+J'ai utilisé:
+
+- 4 cuillères à soupe d'huile d'olive
+- 2 cuillères à soupe de vinaigre balsamique
+- 1/4 de gros oignon (ou un demi petit)
+- de la mozzarella (au Québec on n'en trouve qu'en barre comme du gruyère, mais avec une boule de mozza fraiche c'est bien mieux!)
+- une bonne demi baguette de pain
+- 2 tomates de bonne taille
