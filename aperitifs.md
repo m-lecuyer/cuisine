@@ -32,8 +32,7 @@ J'ai utilisé:
 - 2 tomates de bonne taille
 - du basilic (sous forme d'herbe sèche, mais si vous en avez du frais c'est bien mieux!)
 
-Préparation:
-
+Préparation:  
 - Préchauffer le four à 180°C (350°F)
 - Couper les tranches de pain, les disposer sur une plaque de cuisson et les enduire d'un filet d'huile d'olive
 - Laisser cuire environ 10-15 min jusqu'à ce que les croutons deviennent un peu dorés, puis laisser refroidir dehors
