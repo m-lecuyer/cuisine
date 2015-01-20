@@ -32,12 +32,14 @@ J'ai utilisé:
 - 2 tomates de bonne taille
 - du basilic (sous forme d'herbe sèche, mais si vous en avez du frais c'est bien mieux!)
 
-1) Préchauffer le four à 180°C (350°F)
-2) Couper les tranches de pain, les disposer sur une plaque de cuisson et les enduire d'un filet d'huile d'olive
-3) Laisser cuire environ 10-15 min jusqu'à ce que les croutons deviennent un peu dorés, puis laisser refroidir dehors
-4) Epépiner les tomates puis les couper en petits dés
-5) Dans un bol, mélanger les tomates avec l'oignon ciselé, le restant d'huile d'olive, le vinaigre balsamique et les morceaux de mozza. Saler et poivrer puis étaler sur les pains.
-6) Mettre le tout 3-4 min au grill du four (attention ça crame vite!) 
-7) Ajouter les feuilles de basilic fraîches sur les bruschettas, et servir avec une salade verte par exemple.
+Préparation:
+
+- Préchauffer le four à 180°C (350°F)
+- Couper les tranches de pain, les disposer sur une plaque de cuisson et les enduire d'un filet d'huile d'olive
+- Laisser cuire environ 10-15 min jusqu'à ce que les croutons deviennent un peu dorés, puis laisser refroidir dehors
+- Epépiner les tomates puis les couper en petits dés
+- Dans un bol, mélanger les tomates avec l'oignon ciselé, le restant d'huile d'olive, le vinaigre balsamique et les morceaux de mozza. Saler et poivrer puis étaler sur les pains.
+- Mettre le tout 3-4 min au grill du four (attention ça crame vite!) 
+- Ajouter les feuilles de basilic fraîches sur les bruschettas, et servir avec une salade verte par exemple.
 
 Bon appétit !
