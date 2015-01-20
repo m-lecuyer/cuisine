@@ -34,3 +34,4 @@ OU
  - Aller sur le [projet](https://github.com/matlecu/cuisine) de ce site.
  - Cliquer sur la catégorie correspondante (e.g. desserts.md).
  - Cliquer sur le petit crayon, éditer, et valider.
+ - Et un petit [guide](http://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/) pour les nuls, notamment pour la mise en page.
