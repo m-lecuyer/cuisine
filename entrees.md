@@ -8,7 +8,7 @@ icon: salad-small.png
 [Salade au Quinoa](/entrees#quinoa)
 - [Quiche brocolis et saumon fumé](/entrees#quiche-saumon-brocolis)
 - [Tarte tomate / moutarde](/entrees#tarte-tomate-moutarde)
-- [Quiche Lorraine](/entrees#Lorraine)
+- [Quiche Lorraine](/entrees#lorraine)
 
 
 ### <a name="quinoa"></a> Salade au Quinoa
