@@ -8,6 +8,7 @@ icon: salad-small.png
 [Salade au Quinoa](/entrees#quinoa)
 - [Quiche brocolis et saumon fumé](/entrees#quiche-saumon-brocolis)
 - [Tarte tomate / moutarde](/entrees#tarte-tomate-moutarde)
+- [Quiche Lorraine](/entrees#Quiche Lorraine)
 
 
 ### <a name="quinoa"></a> Salade au Quinoa
@@ -67,3 +68,25 @@ Préparation :
 - Poser au-dessus uniformément le jambon (coupé en lamelles) et les tomates (coupées en rondelles, en évitant de mettre trop de jus pour ne pas détremper la pâte).
 - Mettre la crème fraîche mélangée avec du sel et du poivre au-dessus, puis recouvrir de gruyère râpé.
 - Pour finir, mettre au four environ une demi-heure.
+
+### <a name="lorraine"></a> Quiche Lorraine
+
+Ingrédients:
+
+- 1 pâte feuilletée 
+- 200 g de lardons
+- 3 œufs entiers
+- 2 cuillères à soupe de crème fraîche
+- 25 cl de lait
+- 1 cuillère à café de sucre roux
+- 1 pincée de noix de muscade râpée
+- sel, poivre
+
+Préparation:
+
+- Préchauffez le four à 220°C (425°F).
+- Garnir le fond du moule à tarte avec la pâte feuilletée puis la piquer à l'aide d'une fourchette.
+- Faire revenir à feu vif les lardons pendant 3 minutes, puis les egoutter dans une passoire.
+- Dans un saladier, mélanger les œufs, la crème fraîche et le lait. Ajouter le sucre roux, une pincée de noix de muscade. Saler très légèrement (les lardons apportent déjà un goût salé à la quiche) et poivrer.
+- Garnir le fond de la pâte feuilletée des lardons puis ajouter le reste. 
+- Enfourner pendant 25 à 30 minutes.
