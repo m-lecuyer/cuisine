@@ -15,6 +15,8 @@ plusieurs recettes :
 
 - [Techniques](/techniques) : recettes pour composants de base, trucs et astuces
   généraux.
+- [Plats Simples](/platssimples) : des plats faciles a faire, sans
+  forcement de recettes, pour se donner des idees.
 - [Apéritifs](/aperitifs)
 - [Entrées](/entrees)
 - [Poissons](/poissons)
