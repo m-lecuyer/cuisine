@@ -7,12 +7,12 @@ icon: easy-small.png
 
 [Gratins](/platssimples#gratins)
 
-### <a name="gratins"></a> Gratins (by Josephine & Mathias)
+### <a name="gratins"></a> Gratins (by Joséphine & Mathias)
 
-Un gratin tout simple, avec legume + bechamel + fromge (type comte).  On peut
-aussi rajouter des petits lardons ou autre.  Voila quelques gratins qu'on aime
+Un gratin tout simple, avec légume + béchamel + fromage (type comté).  On peut
+aussi rajouter des petits lardons.  Voila quelques gratins qu'on aime
 bien faire:
 
-- epinards
+- épinards
 - chou-fleur
 
