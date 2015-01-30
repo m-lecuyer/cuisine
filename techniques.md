@@ -35,7 +35,7 @@ _______________________
 
 _______________________
 
-### <a name="blanchir"></a> Blanchir les légumes
+### <a name="blanchir"></a> Blanchir les légumes (par Arnaud)
 
 Blanchir un aliment c'est simplement le faire bouillir dans l'eau pendant un certain temps. Cela permet de "pré-cuire" l'aliment, pour pouvoir en faire autre chose par la suite.
 
