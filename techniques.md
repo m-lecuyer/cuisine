@@ -36,8 +36,8 @@ _______________________
 
 ### <a name="pate-pizza"></a> Pâte à pizza (by Mathias)
 
-Je ne me rappelle pas de la recette que j'utilise, mais c'est assez facile a
-faire et très bon. Il faut penser à bien etaler la pate pour qu'elle soit tres
+Je ne me rappelle pas de la recette que j'utilise, mais c'est assez facile à
+faire et très bon. Il faut penser à bien étaler la pate pour qu'elle soit très
 fine.
 
 _______________________
