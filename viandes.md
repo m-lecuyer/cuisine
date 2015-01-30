@@ -107,3 +107,25 @@ courgettes et de pomme de terre cuites à l'eau.
 **Mettre le jus de cuisson dans une saucière.**
 
 ### <a name="poulet-roti"></a> Poulet Rôti aux pommes de terre
+
+Voilà une recette pour faire un bon poulet rôti, avec les blancs pas trop secs!
+
+Ingrédients: 
+
+- une ou deux gousses d'ail
+- une grosse noix de beurre
+- des pommes de terre (la quantité désirée, du moment que ça rentre dans le plat avec le poulet)
+- un oignon pas trop gros
+- de la moutarde à l'ancienne
+
+Préparation:
+
+- Préchauffer le four à 200-220°c (400-425°F), cela dépend du four, le mien est pas top alors je mets au plus chaud.
+- Insérer la noix de beurre, les gousses d'ail dans le poulet. Saler et poivrer à l'intérieur également.
+- Badigeonner le poulet avec la moutarde (2-3 cuillères à soupe), et le disposer dans le plat **SUR UNE DE SES CUISSES** ! 
+- Emincer l'oignon, couper les pomme de terre en gros quartier (comme des potatoes de McDo en gros) et disposer le tout dans le plat autour du poulet. 
+- Ajouter un petit verre d'eau, et enfourner (environ 30 min pour 500g de viande)
+- **Important**: pour obtenir des blancs pas trop secs, il faut cuire le poulet sur une cuisse en premier pendant 15-20 min, puis sur l'autre cuisse pendant la même durée, puis sur le ventre (20-25min) puis enfin sur le dos avec les blancs vers le haut (20min)
+
+Moi je me suis régalé ! :)
+
