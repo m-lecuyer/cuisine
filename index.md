@@ -30,7 +30,7 @@ Pour participer :
 OU
 
 - Ajouter la recette ou les pages sur GitHub :
- - Se créer un compte [GitHub](https://github/com).
+ - Se créer un compte [GitHub](https://github.com/).
  - Aller sur le [projet](https://github.com/matlecu/cuisine) de ce site.
  - Cliquer sur la catégorie correspondante (e.g. desserts.md).
  - Cliquer sur le petit crayon, éditer, et valider.
