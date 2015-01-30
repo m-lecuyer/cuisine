@@ -5,8 +5,14 @@ order: -1
 icon: techniques-small.png
 ---
 
-[Pâte brisée](/techniques#pate-quiche) - [Pâte à
+[Conversion des unités US/EU](/techniques#conversion) - [Pâte brisée](/techniques#pate-quiche) - [Pâte à
 pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir)
+
+### <a name="conversion"></a> Conversion des unités US/EU
+
+Voilà un petit [site](http://www.ricardocuisine.com/convertisseur/temperature-de-cuisson) très utile pour s'y retrouver dans les unités si on est en amérique du nord...!
+
+
 
 
 ### <a name="pate-quiche"></a> Pâte brisée
