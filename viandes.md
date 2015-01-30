@@ -5,9 +5,7 @@ order: 2
 icon: meat3-small.png
 ---
 
-[Slow-roasted brisket](/viandes#brisket)
-- [Filet mignon](/viandes#filet-mignon)
-- [Rôti de porc gros appétits](/viandes#roti-porc)
+[Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti)
 
 ### <a name="brisket"></a> Slow-roasted brisket à l'américaine
 
@@ -107,3 +105,5 @@ Le servir entouré de tranches d'ananas et accompagné de riz créole, de
 courgettes et de pomme de terre cuites à l'eau.
 <br/>
 **Mettre le jus de cuisson dans une saucière.**
+
+### <a name="poulet-roti"></a> Poulet Rôti aux pommes de terre
