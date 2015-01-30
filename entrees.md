@@ -69,7 +69,7 @@ Préparation :
 - Mettre la crème fraîche mélangée avec du sel et du poivre au-dessus, puis recouvrir de gruyère râpé.
 - Pour finir, mettre au four environ une demi-heure.
 
-### <a name="lorraine"></a> Quiche Lorraine
+### <a name="lorraine"></a> Quiche Lorraine ##(par Arnaud)
 
 Ingrédients:
 
