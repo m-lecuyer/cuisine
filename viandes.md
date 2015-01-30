@@ -110,6 +110,9 @@ courgettes et de pomme de terre cuites à l'eau.
 
 Voilà une recette pour faire un bon poulet rôti, avec les blancs pas trop secs!
 
+<img src="https://cloud.githubusercontent.com/assets/10600852/5971296/336f3b56-a810-11e4-87b5-39462497c47d.jpg" height="315" width="420">
+Désolé pour la photo, j'ai oublié de la prendre avant de manger la moitié du poulet, hum, c'est qu'il me faisait trop envie...!
+
 Ingrédients: 
 
 - une ou deux gousses d'ail
