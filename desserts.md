@@ -51,17 +51,23 @@ frangipane :).
 
 **Recette alternative de mam :**
 
+Ingrédients:
+
 - La recette de la galette:
 - 2 ronds de pâte feuilletée
 - 1 fève
 - 200 g de poudre d’amande
 - 100 g de beurre
 - 2 œufs ou 3
+- 100g de sucre
+
+Préparation:
+
 - Mélanger la poudre avec le beurre mou, le sucre et les 2 oeufs.
 - Etaler un rond, le garnir du mélange de frangipane, ajouter la fève, humecter le bord avec de l’eau, recouvrir du 2ème rond.
 - Souder les deux ronds en appuyant sur le pourtour.
 - Badigeonner avec le jaune du 3ème oeuf. Faire un quadrillage à la fourchette.
-- Faire cuire +/- 30 min dans le four chauffé à 200 °.
+- Faire cuire +/- 30 min dans le four chauffé à 200°C (400°F).
 
 _______________________
 
@@ -74,7 +80,7 @@ Ingrédients :
 - 2 gousses de vanille
 - 3 oeufs
 - 150 g de sucre en poudre
-- 1 c. à soupe de ma zena
+- 1 c. à soupe de maïzena
 - 50 g de beurre
 - 1 citron non traité
 
@@ -86,9 +92,9 @@ citron.
 
 Préparation :
 
-- Préchauffez le four à Th.7 (220°C).
+- Préchauffez le four à Th.7 (220°C/425°F).
 - Déposez la pâte dans un moule et faites cuire à blanc pendant 25 minutes. Sortez du four et laissez refroidir.
-- Diminuez la température du four à Th.4 (120°C).
+- Diminuez la température du four à Th.4 (120°C/250°F).
 - Dans une casserole, faites bouillir le lait avec les 2 gousses de vanille fendues en 2.
 - Séparez les blancs des jaunes d'oeufs.
 - Dans un grand bol, fouettez les jaunes d'oeufs et 50 g de sucre jusqu'à ce que le mélange blanchisse. Ajoutez la maizena. Retirez la vanille et versez le lait sur le mélange.
