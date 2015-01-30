@@ -118,7 +118,7 @@ Ingrédients:
 - une ou deux gousses d'ail
 - une grosse noix de beurre
 - des pommes de terre (la quantité désirée, du moment que ça rentre dans le plat avec le poulet)
-- un oignon pas trop gros
+- un oignon
 - de la moutarde à l'ancienne
 
 Préparation:
