@@ -8,7 +8,7 @@ icon:   drinks-small.png
 [Vin Chaud de Noël](/boissons#vin-chaud)
 - [Planteur](/boissons#planteur)
 
-### <a name="vin-chaud"></a> Vin Chaud de Noël
+### <a name="vin-chaud"></a> Vin Chaud de Noël (par Maman)
 
 Ingrédients :
 
@@ -36,7 +36,7 @@ vos convives !
 
 _______________________
 
-### <a name="planteur"></a> Le vrai PLANTEUR
+### <a name="planteur"></a> Le vrai PLANTEUR (par Maman - et la Guadeloupe)
 
 Pour 10 personnes :
 

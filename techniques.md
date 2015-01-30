@@ -12,10 +12,7 @@ pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir)
 
 Voilà un petit [site](http://www.ricardocuisine.com/convertisseur/temperature-de-cuisson) très utile pour s'y retrouver dans les unités si on est en amérique du nord...!
 
-
-
-
-### <a name="pate-quiche"></a> Pâte brisée
+### <a name="pate-quiche"></a> Pâte brisée (by Joséphine & Mathias)
 
 C'est très simple et rapide. Préparer à portée de main :
 
@@ -37,7 +34,11 @@ Je mets du sel assez gros, ça fait des petits bouts croquants salés dans la p�
 
 _______________________
 
-### <a name="pate-pizza"></a> Pâte à pizza
+### <a name="pate-pizza"></a> Pâte à pizza (by Mathias)
+
+Je ne me rappelle pas de la recette que j'utilise, mais c'est assez facile a
+faire et très bon. Il faut penser à bien etaler la pate pour qu'elle soit tres
+fine.
 
 _______________________
 

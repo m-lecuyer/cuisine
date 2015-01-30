@@ -7,7 +7,7 @@ icon: meat3-small.png
 
 [Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti)
 
-### <a name="brisket"></a> Slow-roasted brisket à l'américaine
+### <a name="brisket"></a> Slow-roasted brisket à l'américaine (by Joséphine)
 
 <img src="/public/brisket.jpg" height="315" width="420">
 
@@ -33,7 +33,7 @@ Préparation :
 
 _______________________
 
-### <a name="filet-mignon"></a> Filet mignon de porc au lait de coco
+### <a name="filet-mignon"></a> Filet mignon de porc au lait de coco (par Maman)
 
 Il faut :
 
@@ -57,7 +57,7 @@ Servir avec du riz ou des pommes de terre. Succès assuré !
 
 _______________________
 
-### <a name="roti-porc"></a> Rôti de porc gros appétits
+### <a name="roti-porc"></a> Rôti de porc gros appétits (par Maman)
 
 - Nombre de personnes : 4
 - Difficulté : facile
@@ -106,7 +106,7 @@ courgettes et de pomme de terre cuites à l'eau.
 <br/>
 **Mettre le jus de cuisson dans une saucière.**
 
-### <a name="poulet-roti"></a> Poulet Rôti aux pommes de terre
+### <a name="poulet-roti"></a> Poulet Rôti aux pommes de terre (par Arnaud)
 
 Voilà une recette pour faire un bon poulet rôti, avec les blancs pas trop secs!
 

@@ -162,7 +162,7 @@ _______________________
 
 _______________________
 
-### <a name="gateau-poire-chocolat"></a> Gâteau poire-chocolat
+### <a name="gateau-poire-chocolat"></a> Gâteau poire-chocolat (par Maman)
 
 <img src="/public/gateau-poire-chocolat.jpg" height="319" width="512">
 
@@ -188,7 +188,7 @@ Préparation :
 
 _______________________
 
-### <a name="moelleux-chocolat-individuels"></a> Moelleux au chocolat individuels
+### <a name="moelleux-chocolat-individuels"></a> Moelleux au chocolat individuels (par Joséphine, sur recette de Géraldine)
 
 <img src="/public/moelleux-choc.jpg" height="319" width="512">
 

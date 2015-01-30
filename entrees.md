@@ -11,7 +11,7 @@ icon: salad-small.png
 - [Quiche Lorraine](/entrees#lorraine)
 
 
-### <a name="quinoa"></a> Salade au Quinoa
+### <a name="quinoa"></a> Salade au Quinoa (by Joséphine & Mathias)
 
 A mélanger et déguster avec une vinaigrette au vinaigre balsamique (et
 éventuellement un peu de coriandre) :
@@ -22,7 +22,7 @@ A mélanger et déguster avec une vinaigrette au vinaigre balsamique (et
 - Olives vertes
 - Feta
 
-### <a name="quiche-saumon-brocolis"></a> Quiche brocolis et saumon fumé
+### <a name="quiche-saumon-brocolis"></a> Quiche brocolis et saumon fumé (par Maman)
 
 Préparation : 25 mn
 Cuisson : 45 mn
@@ -46,7 +46,7 @@ Préparation :
 
 _______________________
 
-### <a name="tarte-tomate-moutarde"></a> Tarte tomate / moutarde
+### <a name="tarte-tomate-moutarde"></a> Tarte tomate / moutarde (par Maman)
 
 Une recette très facile à faire. Appréciée en entrée, avec une salade d'endives par exemple, elle a aussi beaucoup de succès en petits carrés à l'apéritif !
 
