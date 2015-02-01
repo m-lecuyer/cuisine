@@ -16,7 +16,7 @@ icon: whisk-small.png
 - [Gâteau poire-chocolat](/desserts#gateau-poire-chocolat)
 - [Moelleux au chocolat individuels](/desserts#moelleux-chocolat-individuels)
 
-### <a name="gateau-chocolat"></a> Gâteau au chocolat
+### <a name="gateau-chocolat"></a> Gâteau au chocolat (by Mathias)
 
 J'utilise [cette recette](http://www.750g.com/fondant-chocolat-r15151.htm), elle
 est vraiment bonne, et comme le gateau cuit longtemps c'est facile à ne pas trop
@@ -24,7 +24,7 @@ cuire.
 
 _______________________
 
-### <a name="fondant"></a> Fondant au chocolat
+### <a name="fondant"></a> Fondant au chocolat (par Mam)
 
 - 250 choco (70 ou 75 % de cacao)
 - 225 beurre
@@ -36,13 +36,13 @@ _______________________
 
 _______________________
 
-### <a name="cookies"></a> Cookies
+### <a name="cookies"></a> Cookies (by Mathias)
 
 Une [recette](http://www.fransfavs.com/2012/07/levain-bakery-chocolate-chip-walnut-cookie-clone/) proche des fameux cookies de [Levain Bakery](http://www.levainbakery.com/).
 
 _______________________
 
-### <a name="galette"></a> Galette des rois
+### <a name="galette"></a> Galette des rois (par Mathias et Maman)
 
 J'achete la pate feuilletée, et j'utilise cette
 [recette](http://www.marmiton.org/recettes/recette_galette-des-rois_10832.aspx).
@@ -71,7 +71,7 @@ Préparation:
 
 _______________________
 
-### <a name="tarte-citron"></a> Tarte au citron meringuée
+### <a name="tarte-citron"></a> Tarte au citron meringuée (par Maman)
 
 Ingrédients :
 
@@ -108,7 +108,7 @@ Préparation :
 
 _______________________
 
-### <a name="tarte-pommes-amandes"></a> Tarte pommes-amandes
+### <a name="tarte-pommes-amandes"></a> Tarte pommes-amandes (par Maman)
 
 Ingrédients / pour 6 personnes :
 
@@ -132,7 +132,7 @@ Préparation :
 
 _______________________
 
-### <a name="brownies"></a> Brownies
+### <a name="brownies"></a> Brownies (par Maman)
 
 - 75 g de beurre
 - 100 g de chocolat
@@ -149,7 +149,7 @@ de noix si on aime.
 
 _______________________
 
-### <a name="gateau-amandes"></a> Gâteau aux amandes
+### <a name="gateau-amandes"></a> Gâteau aux amandes (par Maman)
 
 - 250 g de sucre
 - 125 g d’amandes en poudre
