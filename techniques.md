@@ -6,7 +6,7 @@ icon: techniques-small.png
 ---
 
 [Conversion des unités US/EU](/techniques#conversion) - [Pâte brisée](/techniques#pate-quiche) - [Pâte à
-pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir)
+pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir) - [Pâte sablée](/techniques#pate-sable)
 
 ### <a name="conversion"></a> Conversion des unités US/EU
 
@@ -58,3 +58,24 @@ Voici quelques exemples de temps de blanchiment, même si ce temps dépend beauc
 - Pommes de terre: 4-5 min (pour faire de bonnes patates sautées sans les faire crâmer mais cuites à l'intérieur!)
 - Viande: (pour la pré-cuire avant de la faire griller par ex)
 - etc
+
+### <a name="pate-sable"></a> Pâte sablée (par Arnaud)
+
+Voici comment faire la pâte sablée, entre autres pour faire la délicieuse [Tarte au citron meringuée]( http://cuisine.lecuyer.me/desserts#tarte-citron) ...!
+
+Ingrédients :
+
+- 250 g de farine
+- 125 g de beurre en morceaux
+- 50 g de sucre (glace si possible)
+- 1 oeuf
+- 1 pincée de sel fin
+
+Préparation : 
+
+- Sur un plan de travail propre, mélanger la farine et le sucre et la pincée de sel jusqu'à ce que ce soit homogène.
+- Ajouter les morceaux de beurre et sabler (mélanger) avec les mains pour obtenir une texture sableuse (bah oui, comme son nom l'indique!), puis ajouter l'oeuf entier tout en continuant de travailler la pâte.
+- Fraiser la pâte (écraser à l'aide de la paumme de la main pour rendre bien compact), puis l'emballer dans un film plastique sous forme de galette épaisse (plus facile à étaler par la suite!).
+- Laisser au frigo 20-30 min.
+- Abaisser la pâte puis tapisser le moule en plaquant bien la pâte dans les coins.
+- Laisser au frigo encore 20-30 min (pour éviter l'affaissement durant la cuisson)
