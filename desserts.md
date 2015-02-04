@@ -73,6 +73,8 @@ _______________________
 
 ### <a name="tarte-citron"></a> Tarte au citron meringuée (par Maman)
 
+<img src="https://cloud.githubusercontent.com/assets/10600852/6049284/1336b224-ac84-11e4-9512-74f0a6cfefed.jpg" height="400" width="319">
+
 Ingrédients :
 
 - 1 abaisse de pâte sablée
