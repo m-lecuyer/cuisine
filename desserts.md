@@ -40,6 +40,8 @@ _______________________
 
 Une [recette](http://www.fransfavs.com/2012/07/levain-bakery-chocolate-chip-walnut-cookie-clone/) proche des fameux cookies de [Levain Bakery](http://www.levainbakery.com/).
 
+Traduction par Arnaud :
+
 Ingrédients:
 
 - 225g de beurre doux coupé en gros dés
