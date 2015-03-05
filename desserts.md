@@ -40,6 +40,34 @@ _______________________
 
 Une [recette](http://www.fransfavs.com/2012/07/levain-bakery-chocolate-chip-walnut-cookie-clone/) proche des fameux cookies de [Levain Bakery](http://www.levainbakery.com/).
 
+Ingrédients:
+
+- 225g de beurre doux coupé en gros dés
+- 125mL de sucre blanc
+- 250mL de cassonade foncée
+- 2 oeufs
+- 1 cuillère à café de vanille
+- 500mL de farine classique
+- 250mL de farine à gâteaux et pâtisseries (je crois que c'est une farine enrichie, ou quelque chose du genre)
+- 1 cuillère à café de gros sel (mais pas trop gros si possible, la recette stipule du "kosher salt", c'est entre du sel de table et du gros sel...)
+- 1 cuillère à café de levure chimique
+- 1/4 de cuillère à café de bicarbonate de soude
+- 1 cuillère à soupe d'amidon de maïs
+- 500mL de pépites de chocolat semi-sucrées
+- 250mL de petits morceaux de noix grillée
+
+Préparation: 
+
+- Dans un premier récipient bien mélanger les farines, le sel, la levure, le bicarbonate et l'amidon. 
+- Dans un autre récipient, mélanger (on peut utiliser un mixer, mais moi je fais sans) le sucre blanc et la cassonade, puis une fois le mélange homogène ajouter les dés de beurre et mélanger. Ajouter les oeufs un par un en mélangeant. Une fois que tout est incorporé, ajouter la vanille et finir de bien mélanger.
+- Ajouter le mélange du premier récipient dans le second et mélanger jusqu'à homogénéité.
+- Ajouter les pépites et les noix et mélanger à la main.
+- Réfrigérer la pâte (la recette dit toute la nuit, mais moi je n'ai pas la patience!)
+- Préchauffer le four à 190°C/375°F.
+- Former des boulles de pâtes d'environ 115g et les déposer sur une plaque recouverte de papier de cuisson en laissant de l'espace entre chacune pour laisser le cookie s'étaler !
+- Cuire 14-15min (ou plus selon le four...), puis laisser refroidir 5min sur la plaque avant de les y enlever.
+- A table !!
+
 _______________________
 
 ### <a name="galette"></a> Galette des rois (par Mathias et Maman)
