@@ -12,6 +12,8 @@ pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir) -
 
 Voilà un petit [site](http://www.ricardocuisine.com/convertisseur/temperature-de-cuisson) très utile pour s'y retrouver dans les unités si on est en amérique du nord...!
 
+_______________________
+
 ### <a name="pate-quiche"></a> Pâte brisée (by Joséphine & Mathias)
 
 C'est très simple et rapide. Préparer à portée de main :
@@ -58,6 +60,8 @@ Voici quelques exemples de temps de blanchiment, même si ce temps dépend beauc
 - Pommes de terre: 4-5 min (pour faire de bonnes patates sautées sans les faire crâmer mais cuites à l'intérieur!)
 - Viande: (pour la pré-cuire avant de la faire griller par ex)
 - etc
+
+_______________________
 
 ### <a name="pate-sable"></a> Pâte sablée (par Arnaud)
 
