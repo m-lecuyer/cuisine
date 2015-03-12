@@ -260,5 +260,5 @@ _______________________
 
 ### <a name="tarte-amandine-bananes"></a> Tarte amandine à la banane (par Joséphine)
 
-[Attention, il s'agit véritablement d'une tarte addictive à la banane !! Mathias et moi avons du mal à ne pas tout finir d'un coup...]
+[Attention, il s'agit véritablement d'une "tarte addictive à la banane" !! Mathias et moi avons du mal à ne pas tout finir d'un coup...]
 ...
