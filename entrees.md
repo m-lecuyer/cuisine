@@ -22,6 +22,8 @@ A mélanger et déguster avec une vinaigrette au vinaigre balsamique (et
 - Olives vertes
 - Feta
 
+_______________________
+
 ### <a name="quiche-saumon-brocolis"></a> Quiche brocolis et saumon fumé (par Maman)
 
 Préparation : 25 mn
@@ -68,6 +70,8 @@ Préparation :
 - Poser au-dessus uniformément le jambon (coupé en lamelles) et les tomates (coupées en rondelles, en évitant de mettre trop de jus pour ne pas détremper la pâte).
 - Mettre la crème fraîche mélangée avec du sel et du poivre au-dessus, puis recouvrir de gruyère râpé.
 - Pour finir, mettre au four environ une demi-heure.
+
+_______________________
 
 ### <a name="lorraine"></a> Quiche Lorraine (par Arnaud)
 
