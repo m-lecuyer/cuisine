@@ -240,7 +240,21 @@ _______________________
 
 ### <a name="far-breton-pruneaux"></a> Far breton aux pruneaux (par Joséphine)
 
-...
+Il suffit d'avoir des pruneaux, quelques oeufs et du lait dans son frigo, et c'est super rapide à préparer !
+
+Ingrédients :
+
+- 4 oeufs
+- 120 g de farine
+- 120 g de sucre
+- 1 pincée de sel
+- 70 cl de lait tiède
+- 1 cuillère à soupe de rhum (facultatif)
+- 10 pruneaux (j'en mets une quinzaine)
+
+Battez les oeufs dans un saladier. Dans un autre récipient, mélangez la farine, le sucre et le sel et ajoutez-y les oeufs battus. Incorporez peu à peu le lait et le rhum. Répartissez-les pruneaux dans le fond d'un moule beurré (dénoyautés ou pas, au choix, moi j'utilise des pruneaux dénoyautés que je coupe en deux, ça a un peu moins de goût qu'avec le noyau mais c'est tout ce qu'on trouve ici). Faites cuire 35 min dans le four préchauffé à 210°C / 410°F (le flan sortira gonflé puis retombera en refroidissant).
+
+En général c'est meilleur de le déguster une fois refroidi, voire après une nuit au réfrigérateur. Et on peut rajouter un peu de vanille pour donner de l'arôme.
 
 _______________________
 
