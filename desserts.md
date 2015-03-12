@@ -261,4 +261,20 @@ _______________________
 ### <a name="tarte-amandine-bananes"></a> Tarte amandine à la banane (par Joséphine)
 
 [Attention, il s'agit véritablement d'une "tarte addictive à la banane" !! Mathias et moi avons du mal à ne pas tout finir d'un coup...]
-...
+
+Ingrédients :
+
+- 1 rouleau de pâte feuilletée
+- 1 oeuf + 1 jaune
+- 60 g de beurre mou
+- 75 g de sucre (je mets plutôt 50-60 g)
+- 75 g de poudre d'amande
+- 1 cuillère à soupe de fécule de maïs (cornmeal de notre côté de l'Atlantique)
+- 4 bananes mûres
+- 2 cuillères à soupe de marmelade d'orange et 1 zeste d'orange (ou confiture d'abricot)
+- 1 cuillère à soupe de jus de citron
+
+Mélangez le beurre avec le sucre, la poudre d’amande, la fécule, l’oeuf et le jaune. Déposez la pâte dans un moule à tarte. Etalez la crème d’amande. Coupez-les bananes en rondelles, arrosez-les de jus de citron et disposez-les sur la tarte.
+Enfournez-la dans le four préchauffé à 180°C / 350°F pendant 25 à 30 min.
+
+Faites chauffer la marmelade d’orange avec le zeste et un peu de jus d’orange (moi j'ai juste mis de la confiture d'abricot). Badigeonnez-en la tarte à la sortie du four.
