@@ -274,7 +274,6 @@ Ingrédients :
 - 2 cuillères à soupe de marmelade d'orange et 1 zeste d'orange (ou confiture d'abricot)
 - 1 cuillère à soupe de jus de citron
 
-Mélangez le beurre avec le sucre, la poudre d’amande, la fécule, l’oeuf et le jaune. Déposez la pâte dans un moule à tarte. Etalez la crème d’amande. Coupez-les bananes en rondelles, arrosez-les de jus de citron et disposez-les sur la tarte.
-Enfournez-la dans le four préchauffé à 180°C / 350°F pendant 25 à 30 min.
+Mélangez le beurre avec le sucre, la poudre d’amande, la fécule, l’oeuf et le jaune. Etalez le tout sur la pâte, dans un moule à tarte. Coupez les bananes en rondelles, arrosez-les de jus de citron et disposez-les sur la tarte. Faites cuire au four à 180°C / 350°F pendant 25 à 30 min.
 
-Faites chauffer la marmelade d’orange avec le zeste et un peu de jus d’orange (moi j'ai juste mis de la confiture d'abricot). Badigeonnez-en la tarte à la sortie du four.
+Faites chauffer la marmelade d’orange avec le zeste et un peu de jus d’orange (moi j'ai juste mis un peu de confiture d'abricot). Badigeonnez-en la tarte à la sortie du four.
