@@ -106,6 +106,8 @@ courgettes et de pomme de terre cuites à l'eau.
 <br/>
 **Mettre le jus de cuisson dans une saucière.**
 
+_______________________
+
 ### <a name="poulet-roti"></a> Poulet Rôti aux pommes de terre (par Arnaud)
 
 Voilà une recette pour faire un bon poulet rôti, avec les blancs pas trop secs!
