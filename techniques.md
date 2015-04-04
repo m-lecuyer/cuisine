@@ -6,7 +6,7 @@ icon: techniques-small.png
 ---
 
 [Conversion des unités US/EU](/techniques#conversion) - [Pâte brisée](/techniques#pate-quiche) - [Pâte à
-pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir) - [Pâte sablée](/techniques#pate-sable)
+pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir) - [Pâte sablée](/techniques#pate-sable) - [Baguette maison](/techniques#baguette)
 
 ### <a name="conversion"></a> Conversion des unités US/EU
 
@@ -83,3 +83,27 @@ Préparation :
 - Laisser au frigo 20-30 min.
 - Abaisser la pâte puis tapisser le moule en plaquant bien la pâte dans les coins.
 - Laisser au frigo encore 20-30 min (pour éviter l'affaissement durant la cuisson)
+
+_______________________
+
+### <a name="baguette"></a> Baguette maison pour les expat'! (by Arnaud)
+
+Une bonne recette pour faire des baguettes qui n'ont rien à envier à celles de Jallet...!
+
+Ingrédients:
+
+- 375g de farine classique
+- 8g de sel
+- 12g de levure fraîche (OU 6g de levure traditionnelle sèche OU 4g de levure instantannée)
+- 300 ml d’eau tiède
+- une pincée de sucre
+
+Préparation :
+
+- Dans un grand saladier, diluer la levure avec un peu d'eau tiède et une pincée de sucre pendant 5 bonnes minutes (sauf dans le cas où de la levure instantanée est utilisée)
+- Ajouter le restant d'eau, bien mélanger puis y incorporer le mélange farine/sel jusqu'à obtenir une pâte homogène.
+- Couvrir d'un torchon et laisser gonfler la pâte pendant 1h30
+- Préchauffer le four à 240°C/480°F
+- Sortir la pâte du saladier sur un lit de farine, la replier sur elle-même plusieurs fois tout en la saupoudrant de farine si elle colle aux mains jusqu'à obtenir une pâte assez lisse.
+- Couper la boule en deux, et façonner deux "serpents" de pâte de longueur/largeur désirée et les placer sur la plaque de cuisson.
+- Saupoudrer les baguettes de farine avant d'enfourner 30 min. Pour avoir une croute bien croustillante, il faut placer un récipient contenant de l'eau dans le four pendant la cuisson.
