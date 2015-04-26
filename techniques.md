@@ -104,9 +104,9 @@ Préparation :
 
 - Dans un grand saladier, diluer la levure avec un peu d'eau tiède et une pincée de sucre pendant 5 bonnes minutes (sauf dans le cas où de la levure instantanée est utilisée)
 - Ajouter le restant d'eau, bien mélanger puis y incorporer le mélange farine/sel jusqu'à obtenir une pâte homogène.
-- Couvrir d'un torchon et laisser gonfler la pâte pendant 1h30
+- Couvrir d'un torchon et laisser gonfler la pâte pendant 1h-1h30
 - Sortir la pâte du saladier sur un lit de farine, et la pétrire en la repliant sur elle-même plusieurs fois tout en la saupoudrant de farine si elle colle aux mains, jusqu'à obtenir une pâte assez lisse.
-- Laisser reposer de nouveau 1/2 ou 1h.
+- Laisser reposer de nouveau 1/2h-1h.
 - Préchauffer le four à 240°C/480°F
 - Couper la boule en deux, et façonner deux "serpents" de pâte de longueur/largeur désirée et les placer sur la plaque de cuisson.
 - Saupoudrer les baguettes de farine et inciser le dessus (avec des ciseaux ou un couteau bien aiguisé) avant d'enfourner 30 min. Pour avoir une croute bien croustillante, il faut placer un récipient contenant de l'eau dans le four pendant la cuisson.
