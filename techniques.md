@@ -108,5 +108,5 @@ Préparation :
 - Sortir la pâte du saladier sur un lit de farine, et la pétrire en la repliant sur elle-même plusieurs fois tout en la saupoudrant de farine si elle colle aux mains, jusqu'à obtenir une pâte assez lisse.
 - Laisser reposer de nouveau 1/2h-1h.
 - Préchauffer le four à 240°C/480°F
-- Couper la boule en deux, et façonner deux "serpents" de pâte de longueur/largeur désirée et les placer sur la plaque de cuisson.
+- Couper la boule en deux, et façonner deux "serpents" de pâte de longueur/largeur désirée et les placer sur une plaque de cuisson légèrement huilée.
 - Saupoudrer les baguettes de farine et inciser le dessus (avec des ciseaux ou un couteau bien aiguisé) avant d'enfourner 30 min. Pour avoir une croute bien croustillante, il faut placer un récipient contenant de l'eau dans le four pendant la cuisson.
