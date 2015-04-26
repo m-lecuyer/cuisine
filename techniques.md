@@ -88,6 +88,8 @@ _______________________
 
 ### <a name="baguette"></a> Baguette maison pour les expat'! (by Arnaud)
 
+<img src="https://cloud.githubusercontent.com/assets/10600852/7335364/3741cef6-eb86-11e4-91ef-95cd49a5480f.jpg" height="315" width="420">
+
 Une bonne recette pour faire des baguettes qui n'ont rien à envier à celles de Jallet...!
 
 Ingrédients:
