@@ -17,6 +17,7 @@ icon: whisk-small.png
 - [Moelleux au chocolat individuels](/desserts#moelleux-chocolat-individuels)
 - [Far breton aux pruneaux](/desserts#far-breton-pruneaux)
 - [Tarte amandine à la banane](/desserts#tarte-amandine-bananes)
+- [Gateau aux blancs d'oeufs](/desserts#blancs-oeufs)
 
 ### <a name="gateau-chocolat"></a> Gâteau au chocolat (by Mathias)
 
@@ -277,3 +278,28 @@ Ingrédients :
 Mélangez le beurre avec le sucre, la poudre d’amande, la fécule, l’oeuf et le jaune. Etalez le tout sur la pâte, dans un moule à tarte. Coupez les bananes en rondelles, arrosez-les de jus de citron et disposez-les sur la tarte. Faites cuire au four à 180°C / 350°F pendant 25 à 30 min.
 
 Faites chauffer la marmelade d’orange avec le zeste et un peu de jus d’orange (moi j'ai juste mis un peu de confiture d'abricot). Badigeonnez-en la tarte à la sortie du four.
+
+______________________________
+
+### <a name="blancs-oeufs"></a> Gateau aux blancs d'oeufs (par Maman)
+
+<img src="https://cloud.githubusercontent.com/assets/10600852/7498319/00df4990-f3ee-11e4-913e-14bc55720ced.jpg" height="300" width="300">
+
+Gâteau à réaliser s'il vous reste des blancs d'oeufs. Gâteau rapide à faire et à consommer avec une crème au chocolat. Délicieux !
+
+Ingrédients:
+
+-	125g de farine
+-	190g de sucre en poudre
+-	4 blancs d'oeufs
+-	1 paquet sucre vanille
+-	1/2 paquet de levure
+-	65g de beurre
+
+Préparation:
+
+- Mélanger farine, sucre en poudre, sucre vanillé et levure.
+- Ajoutez le beurre fondu à ce mélange.
+- Montez les blancs en neige puis les intégrer à la précédente préparation avec précaution.
+- Beurrez un plat puis verser ce mélange. Faire cuire à Th.5/6 (160°C/320°F) une trentaine de minutes.
+
