@@ -21,6 +21,7 @@ Ingrédients: (pour 2 pers.)
 -	sel, poivre
 
 Préparation:
+
 - Pelez l’échalote et hachez-la finement.
 - Mixez les noix avec le comté. Ajoutez l’échalote et la chapelure.
 - Dans un plat à four huilé, déposez les dos de cabillaud. Répartissez le mélange aux noix sur toute la surface.
