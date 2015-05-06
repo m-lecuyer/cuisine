@@ -9,6 +9,7 @@ icon: salad-small.png
 - [Quiche brocolis et saumon fumé](/entrees#quiche-saumon-brocolis)
 - [Tarte tomate / moutarde](/entrees#tarte-tomate-moutarde)
 - [Quiche Lorraine](/entrees#lorraine)
+- [Pizza épinards chèvre](/entrees#epinard-chevre)
 
 
 ### <a name="quinoa"></a> Salade au Quinoa (by Joséphine & Mathias)
@@ -94,3 +95,33 @@ Préparation:
 - Dans un saladier, mélanger les œufs, la crème fraîche et le lait. Ajouter le sucre roux, une pincée de noix de muscade. Saler très légèrement (les lardons apportent déjà un goût salé à la quiche) et poivrer.
 - Garnir le fond de la pâte feuilletée des lardons puis ajouter le reste. 
 - Enfourner pendant 25 à 30 minutes.
+
+______________________________________
+
+### <a name="epinard-chevre"></a> Pizza épinards chèvre frais (par Maman) 
+
+Ingrédients:
+
+-	4 tomates
+-	2 poivrons rouges
+-	2 oignons
+-	3 à 4 c. à soupe d'huile olive
+-	500 g d'épinards frais
+-	200 g de chèvre frais (ou Feta)
+-	1 c. à café d'origan
+-	Sel
+-	Poivre
+
+Préparation:
+
+- Coupez les tomates en quartiers. Saupoudrez de sel et laissez les dégorger.
+- Emincez les poivrons en lanières.
+- Préchauffez le four à 210°C.
+- Emincez les oignons. Faites-les revenir 5 minutes dans 2 cuillères à soupe d'huile d'olive. Ajoutez les épinards lavés et non égouttés. Egouttez, salez et poivrez.
+- Etalez la pâte en rectangle. Badigeonnez-la de moutarde.
+- Répartissez les tomates, les poivrons, les épinards, les oignons et le fromage de chèvre émietté.
+- Arrosez d'une cuillère d'huile d'olive et parsemez d'origan.
+- Mettez au four 20 à 25 minutes.
+- Avant de servir, arrosez d'un filet d'huile d'olive.
+
+
