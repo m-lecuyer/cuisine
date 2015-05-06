@@ -5,7 +5,7 @@ order: 2
 icon: meat3-small.png
 ---
 
-[Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti) - [Emincé de dinde au paprika](/viandes#dinde-paprika)
+[Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti) - [Emincé de dinde au paprika](/viandes#dinde-paprika) - [Cuisse de dinde marinée au four](/viandes#cuisse-dinde)
 
 ### <a name="brisket"></a> Slow-roasted brisket à l'américaine (by Joséphine)
 
@@ -159,4 +159,32 @@ Préparation:
 - Ajouter la tomate et les champignons, couvrir et laisser mijoter 5 minutes sur feu doux.
 - Ajouter la crème fraîche, rectifier l'assaisonnement, arrêter la cuisson au premier bouillon.
 
+____________________________________________
+
+### <a name="cuisse-dinde"></a> Cuisse de dinde marinée au four (par Maman)
+
+Ingrédients: (pour 3 pers.)
+
+- 1 cuisse de dinde d'environ 700g
+- 4 cuillères à soupe de moutarde douce
+- herbes de Provence ou italiennes
+- 2 gousses d’ail coupées en longueur 4 ou 6 fois (enlever le germe)
+- sel
+
+Pour la marinade :
+
+- 2 cuillères à soupe de miel
+- 2 cuillères à soupe de sauce soja
+- 1 cuillère à soupe de huile d’olive
+- Poivre
+
+Préparation:
+
+- Le soir avant, mettre la cuisse dans votre plat rectangulaire ou ovale et inciser la cuisse plusieurs fois en introduisant un bout d’ail (aidez vous du couteau en écartant la fente et pousser avec les doigts).
+- Enduire de moutarde douce partout, parsemer d’herbes, recouvrir d’une feuille d’alu et mettre au frigo jusqu’au lendemain.
+- Le lendemain, sortir du frigo au moins une bonne heure avant la cuisson.
+- Préchauffez votre four à 180°C (chaleur à air pulsé, 200°C four conventionnel je pense)
+- Enduire la marinade de partout (de préférence avec un pinceau culinaire, c’est plus facile), saler à votre goût et versez 10 cl d’eau tout au tour. Mettre au milieu du four pendant 1 heure en arrosant avec le jus très régulièrement (ajoutez de l’eau autour quand nécessaire).
+- Eteindre le four, sortir le plat et recouvrir avec l’alu déjà utilisé pendant 15 min.
+- Coupez la cuisse en tranches, les mettre dans le plat et les retourner pour bien imbiber du jus. Recouvrir à nouveau avec l’alu et remettre dans le four pendant quelques min.
 
