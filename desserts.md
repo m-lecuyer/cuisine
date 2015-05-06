@@ -283,7 +283,7 @@ ______________________________
 
 ### <a name="blancs-oeufs"></a> Gateau aux blancs d'oeufs (par Maman)
 
-<img src="https://cloud.githubusercontent.com/assets/10600852/7498319/00df4990-f3ee-11e4-913e-14bc55720ced.jpg" height="300" width="250">
+<img src="https://cloud.githubusercontent.com/assets/10600852/7498319/00df4990-f3ee-11e4-913e-14bc55720ced.jpg" height="250" width="300">
 
 Gâteau à réaliser s'il vous reste des blancs d'oeufs. Gâteau rapide à faire et à consommer avec une crème au chocolat. Délicieux !
 
