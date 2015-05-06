@@ -5,7 +5,7 @@ order: 2
 icon: meat3-small.png
 ---
 
-[Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti)
+[Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti) - [Emincé de dinde au paprika](/viandes#dinde-paprika)
 
 ### <a name="brisket"></a> Slow-roasted brisket à l'américaine (by Joséphine)
 
@@ -133,4 +133,30 @@ Préparation:
 - **Important**: pour obtenir des blancs pas trop secs, il faut cuire le poulet sur une cuisse en premier pendant 15-20 min, puis sur l'autre cuisse pendant la même durée, puis sur le ventre (20-25min) puis enfin sur le dos avec les blancs vers le haut (20min)
 
 Moi je me suis régalé ! :)
+
+_______________________________________
+
+### <a name="dinde-paprika"></a> Emincé de dinde au paprika (par Maman)
+
+<img src="https://cloud.githubusercontent.com/assets/10600852/7498163/cd947da4-f3ec-11e4-9b78-8f30fbc5b6fd.jpg" height="315" width="420">
+
+Ingrédients: (pour 2 prs.)
+
+-	2 escalopes de dinde
+-	1 oignon  1 cuillère à soupe de paprika
+-	1 cuillère à soupe d'huile d'olive
+-	1 tomate ronde
+-	herbes de Provence
+-	200 g de champignons  (ou pas)
+-	10 cl de crème fraîche
+-	sel
+-	poivre
+
+Préparation:
+
+- Éplucher et émincer l'oignon, émincer les escalopes, les faire macérer dans l'huile d'olive et le paprika pendant 10 minutes (ou plus si vous disposez de plus de temps). Laver et émincer les champignons, les faire revenir à la poêle pour leur faire rejeter l'eau, couper la tomate en 6.
+- Faire revenir le mélange dans une poêle, à feu vif ; saler, poivrer, ajouter les herbes de Provence.
+- Ajouter la tomate et les champignons, couvrir et laisser mijoter 5 minutes sur feu doux.
+- Ajouter la crème fraîche, rectifier l'assaisonnement, arrêter la cuisson au premier bouillon.
+
 
