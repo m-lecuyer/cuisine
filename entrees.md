@@ -102,6 +102,7 @@ ______________________________________
 
 Ingrédients:
 
+-	300 g de pâte à pizza
 -	4 tomates
 -	2 poivrons rouges
 -	2 oignons
