@@ -9,6 +9,7 @@ icon: legumes-small.png
 - [Pot-au-feu](/legumes#potaufeu)
 - [Potée](/legumes#potee)
 - [Chorizo Lentilles](/legumes#chorizo-lentilles)
+- [Potage de courge butternut](/legumes#potage-butternut)
 
 ### <a name="ratatouille"></a> Ratatouille (by Joséphine & Mathias)
 
@@ -35,3 +36,21 @@ _______________________
 ### <a name="chorizo-lentilles"></a> Chorizo Lentilles (par Maman)
 
 Voilà la recette du [Chorizo Lentilles](/public/chorizo-lentilles.pdf).
+
+________________________
+
+### <a name="potage-butternut"></a> Potage de courge butternut (par Maman)
+
+Si simple et délicieux ! "Une excellente soupe de légumes qui vous réchauffera sans apporter trop de calories !" 
+
+Pour 6 ou 8 :
+
+- 1 cuillère à café d'huile
+-	1 gros oignon
+-	1 grosse courge butternut
+-	2 pommes de terre
+-	1 bouillon cube poulet 
+-	15 cl crème liquide
+-	1 pot de crème fraîche (si l’on veut)
+-	Bouquet de coriandre ou de ciboulette
+-	Parmesan rapé ou en poudre
