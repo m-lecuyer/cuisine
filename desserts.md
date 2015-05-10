@@ -18,6 +18,7 @@ icon: whisk-small.png
 - [Far breton aux pruneaux](/desserts#far-breton-pruneaux)
 - [Tarte amandine à la banane](/desserts#tarte-amandine-bananes)
 - [Gateau aux blancs d'oeufs](/desserts#blancs-oeufs)
+- [Boules de neige](/desserts#boule-neige)
 
 ### <a name="gateau-chocolat"></a> Gâteau au chocolat (by Mathias)
 
@@ -303,3 +304,24 @@ Préparation:
 - Montez les blancs en neige puis les intégrer à la précédente préparation avec précaution.
 - Beurrez un plat puis verser ce mélange. Faire cuire à Th.5/6 (160°C/320°F) une trentaine de minutes.
 
+_______________________________
+
+### <a name="boule-neige"></a> Boules de neige (par Arnaud)
+
+<img src="https://cloud.githubusercontent.com/assets/10600852/7556185/c500565e-f734-11e4-82a7-1bf84ea2fdff.jpg" height="250" width="250">
+
+Ingrédients:
+
+- 3/4 tasse de beurre d’arachide crémeux
+- 3 c. à soupe de beurre, ramolli
+- 1 tasse de sucre à glacer
+- 1/2 tasse de chapelure de graham
+- 1 paquet (225 g) de chocolat mi-sucré, fondu
+
+Préparation:
+
+- Mélanger le beurre d'arachide et le beurre dans un bol moyen jusqu'à homogénéité. 
+- Ajouter le sucre et la chapelure de graham; bien mélanger.
+- Façonner le mélange en 24 boules de 1 pouce et les tremper dans le chocolat en les retournant pour bien les en enrober.
+- Mettre les boules sur une plaque à pâtisserie tapissée d'une feuille de papier sulfurisé ou ciré.
+- Réfrigérer les boules 1 heure ou jusqu'à ce qu'elles soient fermes.
