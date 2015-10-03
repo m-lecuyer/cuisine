@@ -192,6 +192,9 @@ ________________________
 
 ### <a name="lasagnes-bolognese"></a> Lasagnes à la Bolognèse (par Maman)
 
+<img src="https://cloud.githubusercontent.com/assets/10600852/10265380/f27eda44-69fb-11e5-858c-e751c1a92199.jpg" height="315" width="420">
+
+
 Ingrédients: (pour 6 pers.)
 
 - 1 carotte
