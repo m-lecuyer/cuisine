@@ -5,7 +5,7 @@ order: 2
 icon: meat3-small.png
 ---
 
-[Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti) - [Emincé de dinde au paprika](/viandes#dinde-paprika) - [Cuisse de dinde marinée au four](/viandes#cuisse-dinde)
+[Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti) - [Emincé de dinde au paprika](/viandes#dinde-paprika) - [Cuisse de dinde marinée au four](/viandes#cuisse-dinde) - [Lasagnes à la Bolognèse](/viandes#lasagnes-bolognese)
 
 ### <a name="brisket"></a> Slow-roasted brisket à l'américaine (by Joséphine)
 
@@ -188,3 +188,42 @@ Préparation:
 - Eteindre le four, sortir le plat et recouvrir avec l’alu déjà utilisé pendant 15 min.
 - Coupez la cuisse en tranches, les mettre dans le plat et les retourner pour bien imbiber du jus. Recouvrir à nouveau avec l’alu et remettre dans le four pendant quelques min.
 
+________________________
+
+### <a name="lasagnes-bolognese"></a> Lasagnes à la Bolognèse (par Maman)
+
+Ingrédients: (pour 6 pers.)
+
+- 1 carotte
+- un oignon
+- 2 gousses d'ail
+- 4 cuillères à soupe d'huile d'olive
+- 600g de boeuf hachée
+- 800g de tomates pelées
+- 2 cuillères à soupe de concentré de tomate (optionnel)
+- Feuilles de lasagnes
+- Parmesan
+
+Pour la béchamel:
+- 60g de beurre
+- 60g de farine
+- 1.2L de lait
+
+Préparation:
+
+- Faire revenir l'oignon, l'ail et la carotte le tout découpé, dans l'huile d'olive
+- Ajouter la viande hachée et faire rissoler
+- Ajouter les tomates pelées et le concentré de tomate dilué dans un verre d'eau, puis laisser l'excès d'eau s'évaporer
+- Ajouter 3 louches d'eau (ou de bouillon de légume), assaisonner et laisser cuire pendant 45 min environ.
+
+Pour la béchamel:
+- Fondre le beurre et ajouter la farine en remuant
+- Verser le lait lentement tout en remuant pour ne pas qu'il y ait de grumeaux
+- Saler et porter à ébulition en mélangeant sans arrêt jusqu'à obtenir la consistance désirée
+
+Lasagnes:
+- Beurrer un plat à four (30x20cm) et recouvrir le fond d'une fine couche de bolognèse et de béchamel.
+- Former une couche avec les feuilles de lasagne en évitant de les superposer
+- Répéter le processus en intercalant du parmesan rapé entre les couches (toutes leux 2 couches, ou à chacune pour les gourmands!)
+- La dernière couche devrait seulement être composée de sauce béchamel et de parmesan
+- Mettre au four à 250°C (482°F) pendant 20 minutes
