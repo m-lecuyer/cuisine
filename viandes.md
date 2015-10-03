@@ -222,11 +222,13 @@ Préparation:
 - Ajouter 3 louches d'eau (ou de bouillon de légume), assaisonner et laisser cuire pendant 45 min environ.
 
 Pour la béchamel:
+
 - Fondre le beurre et ajouter la farine en remuant
 - Verser le lait lentement tout en remuant pour ne pas qu'il y ait de grumeaux
 - Saler et porter à ébulition en mélangeant sans arrêt jusqu'à obtenir la consistance désirée
 
 Lasagnes:
+
 - Beurrer un plat à four (30x20cm) et recouvrir le fond d'une fine couche de bolognèse et de béchamel.
 - Former une couche avec les feuilles de lasagne en évitant de les superposer
 - Répéter le processus en intercalant du parmesan rapé entre les couches (toutes leux 2 couches, ou à chacune pour les gourmands!)
