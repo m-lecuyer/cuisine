@@ -194,7 +194,7 @@ ________________________
 
 <img src="https://cloud.githubusercontent.com/assets/10600852/10265380/f27eda44-69fb-11e5-858c-e751c1a92199.jpg" height="315" width="250">
 
-Note du chef: "Il y a mille variantes possibles, par exemple remplacer les carottes par des courgettes, ne pas mettre de tomates mais juste du coulis. Avec des épinards c'est très bon aussi... Chacun peut faire varier la chose à sa façon et selon le contenu du frigo !"
+>*Note du chef: "Il y a mille variantes possibles, par exemple remplacer les carottes par des courgettes, ne pas mettre de tomates mais juste du coulis. Avec des épinards c'est très bon aussi... Chacun peut faire varier la chose à sa façon et selon le contenu du frigo !"*
 
 Ingrédients: (pour 6 pers.)
 
