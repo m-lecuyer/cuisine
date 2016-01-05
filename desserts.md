@@ -19,6 +19,7 @@ icon: whisk-small.png
 - [Tarte amandine à la banane](/desserts#tarte-amandine-bananes)
 - [Gateau aux blancs d'oeufs](/desserts#blancs-oeufs)
 - [Boules de neige](/desserts#boule-neige)
+- [Tiramisu](/desserts#tiramisu)
 
 ### <a name="gateau-chocolat"></a> Gâteau au chocolat (by Mathias)
 
@@ -325,3 +326,28 @@ Préparation:
 - Façonner le mélange en 24 boules de 1 pouce et les tremper dans le chocolat en les retournant pour bien les en enrober.
 - Mettre les boules sur une plaque à pâtisserie tapissée d'une feuille de papier sulfurisé ou ciré.
 - Réfrigérer les boules 1 heure ou jusqu'à ce qu'elles soient fermes.
+
+__________________________________
+
+### <a name="tiramisu"></a> Tiramisu (par Maman)
+
+Ingrédients:
+
+- 3 ou 4 oeufs
+- 250g de mascarpone
+- 3 cuillères à soupe de sucre
+- boudoirs
+- café
+- poudre de chocolat amer
+
+Préparation:
+
+- séparer les blancs des jaunes
+- mélanger les jaunes avec le sucre, et battre les blancs en neige
+- ajouter la mascarpone au jaunes+sucre et battre au mixeur
+- ajouter les blancs en neige
+- tremper les boudoirs dans le café, les disposer dans un plat et ajouter le mélange de pâte
+- saupoudrer de chocolat amer
+- mettre au frais et déguster le lendemain 
+
+Variante: *tremper les boudoirs dans 2 cuillères à café bien pleines de poudre de cacao amer + 30cl d'eau, pour remplacer le café*
