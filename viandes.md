@@ -5,7 +5,7 @@ order: 2
 icon: meat3-small.png
 ---
 
-[Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti) - [Emincé de dinde au paprika](/viandes#dinde-paprika) - [Cuisse de dinde marinée au four](/viandes#cuisse-dinde) - [Lasagnes à la Bolognèse](/viandes#lasagnes-bolognese) - [Sot-l'y-laisse de dinde façon tajine](/viandes#sot-l'y-laisse)
+[Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti) - [Emincé de dinde au paprika](/viandes#dinde-paprika) - [Cuisse de dinde marinée au four](/viandes#cuisse-dinde) - [Lasagnes à la Bolognèse](/viandes#lasagnes-bolognese) - [Sot-l'y-laisse de dinde façon tajine](/viandes#sot-l'y-laisse) - [Goulash hongroise traditionnelle](/viandes#goulash-hongroise)
 
 ### <a name="brisket"></a> Slow-roasted brisket à l'américaine (by Joséphine)
 
@@ -265,3 +265,46 @@ Préparation:
 - Ajoutez par-dessus les morceaux de sot-l’y-laisse réservés. Laissez cuire à frémissements durant une demi-heure, rectifiez l’assaisonnement.
 - Au moment de servir, saupoudrez de persil haché.
 
+_________________________________
+
+### <a name="goulash-hongroise"></a> Goulash hongroise traditionnelle (par Maman)
+
+<img src="http://images.marmitoncdn.org/recipephotos/multiphoto/fe/fe4e2a80-ba9c-4315-9e4a-31af6bd91d66_normal.jpg" height="300" width="220">
+
+Ingrédients (pour 4 personnes) :
+
+- 1 kg de boeuf à braiser
+- 1 tomate
+- 2 gros oignons
+- 1 poivron rouge
+- paprika doux (et non pas fort)
+- 8 pommes de terre
+- sel
+- poivre 
+- 1 piment (facultatif)
+
+Pour les tchipetka :
+
+- 1 kg de farine
+- 4 œufs
+- 2 cuillères à soupe de sel
+- eau
+
+Préparation:
+
+- Couper la viande en petits morceaux de façon à ne pas avoir à se servir de couteau pour manger.
+- Dans une cocotte en fonte, faites revenir l'oignon, le poivron, la tomate.
+- Quand l'oignon est translucide, ajouter la viande coupée (et lavée et séchée), la faire dorer puis rajouter le paprika.
+Mélanger, rajouter de l'eau pour recouvrir la viande. Le bouillon doit être rouge, si nécessaire rajouter du paprika.
+- Laisser mijoter à feu doux pendant 2 à 3 h. Pendant ce temps, préparer les tchipetka
+- Quand la viande est cuite, la pousser sur les bords de la cocotte, et mettre au centre les pommes de terre pelées et coupées dans le sens de la longueur en quatre.
+- Rajouter paprika et eau si nécessaire et mettre le piment entier (non coupé) au milieu. Laisser cuire 20 à 30 minutes.
+- Laisser reposer la goulash 5 bonnes minutes, puis servir un peu de tchipetka, un peu de viande, un peu de pommes de terre et enfin du bouillon sur le tout.
+
+Pour les tchipetka :
+
+- Dans une jatte, mélanger les oeuf, le sel, la farine et de l'eau de façon à obtenir une pâte souple et homogène, un peu comme une pâte à tarte. *
+- Faire chauffer une grande casserole d'eau et y plonger des petits morceaux de pâte, les laisser cuire jusqu'à ce qu'il remontent à la surface. Ensuite les égoutter les mettre dans un plat au chaud.
+
+*Remarques :
+C'est un plat complet et consistant, on peut remplacer le boeuf par du poulet de la poule ou du veau.*
