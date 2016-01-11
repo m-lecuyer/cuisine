@@ -20,6 +20,7 @@ icon: whisk-small.png
 - [Gateau aux blancs d'oeufs](/desserts#blancs-oeufs)
 - [Boules de neige](/desserts#boule-neige)
 - [Tiramisu](/desserts#tiramisu)
+- [Tarte amandine aux poires](/desserts#tarte-poires)
 
 ### <a name="gateau-chocolat"></a> Gâteau au chocolat (by Mathias)
 
@@ -351,3 +352,28 @@ Préparation:
 - mettre au frais et déguster le lendemain 
 
 Variante: *tremper les boudoirs dans 2 cuillères à café bien pleines de poudre de cacao amer + 30cl d'eau, pour remplacer le café*
+
+_____________________________
+
+### <a name="tarte-poires"></a> Tarte amandine aux poires (par Maman)
+
+<img src="http://images.marmitoncdn.org/recipephotos/multiphoto/59/597f7306-c6ca-43da-97b9-41f627e7eecb_normal.jpg" height="200" width="250">
+
+Ingrédients (pour 6 personnes) :
+
+- 1 pâte brisée toute prête
+- 1 ou 2 boîtes de poires au sirop
+- 100 g de beurre
+- 100 g de sucre
+- 2 oeufs
+- 100 g d'amandes en poudre
+- 25 g de farine
+- 10 cl d'alcool de poire ou autre
+
+Préparation:
+
+- Mélangez le beurre ramolli au sucre jusqu'à ce que vous obteniez un mélange léger.
+- Ajoutez les oeufs battus,puis les amandes en poudre et la farine tamisée. Parfumez avec l'alcool de poire.
+- Etalez la pâte brisée au fond d'un moule à tarte. Piquez-en le fond et versez-y le mélange.
+- Placez enfin les poires sur le mélange en les enfonçant délicatement.
+- Mettez à cuire 30 mn à 180°C (355°F)
