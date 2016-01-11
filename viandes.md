@@ -5,7 +5,7 @@ order: 2
 icon: meat3-small.png
 ---
 
-[Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti) - [Emincé de dinde au paprika](/viandes#dinde-paprika) - [Cuisse de dinde marinée au four](/viandes#cuisse-dinde) - [Lasagnes à la Bolognèse](/viandes#lasagnes-bolognese)
+[Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti) - [Emincé de dinde au paprika](/viandes#dinde-paprika) - [Cuisse de dinde marinée au four](/viandes#cuisse-dinde) - [Lasagnes à la Bolognèse](/viandes#lasagnes-bolognese) - [Sot-l'y-laisse de dinde façon tajine](/viandes#sot-l'y-laisse)
 
 ### <a name="brisket"></a> Slow-roasted brisket à l'américaine (by Joséphine)
 
@@ -234,3 +234,34 @@ Lasagnes:
 - Répéter le processus en intercalant du parmesan rapé entre les couches (toutes leux 2 couches, ou à chacune pour les gourmands!)
 - La dernière couche devrait seulement être composée de sauce béchamel et de parmesan
 - Mettre au four à 250°C (482°F) pendant 20 minutes
+
+_______________________________
+
+### <a name="sot-l'y-laisse"></a> Sot-l'y-laisse de dinde façon tajine (par Maman)
+
+<img src="http://images.marmitoncdn.org/recipephotos/multiphoto/4c/4c287186-8625-4d8e-9708-2fbdc90defee_normal.jpg" height="200" width="250">
+
+Ingrédients (pour 4 personnes) :
+
+- 1 kg de sot-l'y-laisse de dinde
+- 800 g de carottes
+- 2 gros oignons
+- 2 gousses d’ail
+- 1 cuillère à soupe de miel
+- 2 cuillères à café de fond de volaille
+- 1 cuillère à café de 4 épices
+- 3 cuillères à soupe d’huile d’olive
+- sel
+- persil haché
+
+Préparation:
+
+- Dans une sauteuse faire revenir les sot-l’y-laisse, dans deux cuillères d’huile d’olive, jusqu’à ce qu’ils soient bien dorés, salez, réservez.
+- Pendant ce temps, pelez et hachez les oignons, pelez les gousses d’ail, écrasez-les au presse ail.
+- Pelez les carottes, lavez-les, coupez-les en petites cubes.
+- Ajoutez une cuillère d’huile d’olive dans la cocotte, mettez à fondre doucement les oignons et l’ail écrasé.
+- Ajoutez le miel, puis le fond de volaille et le 4 épices et enfin les carottes, remuez.
+- Laissez rependre la chaleur puis mouillez avec 30 cl d’eau.
+- Ajoutez par-dessus les morceaux de sot-l’y-laisse réservés. Laissez cuire à frémissements durant une demi-heure, rectifiez l’assaisonnement.
+- Au moment de servir, saupoudrez de persil haché.
+
