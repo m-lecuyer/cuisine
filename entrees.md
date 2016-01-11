@@ -152,3 +152,6 @@ Préparation:
 - Dans un saladier, mélanger la ricotta, les oeufs et le parmesan. Saler et poivrer.
 - Ajouter à la préparation les courgettes, la coppa et le basilic ciselé, puis verser le mélange sur le fond de tarte.
 - Recouvrir avec les tranches de coppa restantes et enfourner à 180°C (355°F) pendant 45 mn environ.
+
+*Remarques :
+Servir avec une salade verte et des pignons de pin avec une vinaigrette au vinaigre balsamique.*
