@@ -10,6 +10,7 @@ icon: salad-small.png
 - [Tarte tomate / moutarde](/entrees#tarte-tomate-moutarde)
 - [Quiche Lorraine](/entrees#lorraine)
 - [Pizza épinards chèvre](/entrees#epinard-chevre)
+- [Tarte ricotta, courgettes et coppa](/entrees#tarte-ricotta)
 
 
 ### <a name="quinoa"></a> Salade au Quinoa (by Joséphine & Mathias)
@@ -125,4 +126,29 @@ Préparation:
 - Mettez au four 20 à 25 minutes.
 - Avant de servir, arrosez d'un filet d'huile d'olive.
 
+____________________________________
 
+### <a name="tarte-ricotta"></a> Tarte ricotta, courgettes et coppa (par Maman) 
+
+<img src="http://images.marmitoncdn.org/recipephotos/multiphoto/93/939a0348-51f3-4f9a-9139-de43c834176e_normal.jpg" height="150" width="200">
+
+Ingrédients:
+
+- 1 pâte brisée
+- 3 courgettes
+- 10 tranches de coppa
+- 250 g de ricotta
+- 2 oeufs
+- 50 g de parmesan râpé
+- 5-6 feuilles de basilic frais
+- sel et poivre
+- huile d'olive
+
+Préparation:
+
+- Laver et râper les courgettes, puis les faire revenir dans un peu d'huile d'olive.
+- En fin de cuisson, retirer l'eau qu'elles ont rendu.
+- Couper 6 tranches de coppa en petis morceaux et garder les autres pour le décor.
+- Dans un saladier, mélanger la ricotta, les oeufs et le parmesan. Saler et poivrer.
+- Ajouter à la préparation les courgettes, la coppa et le basilic ciselé, puis verser le mélange sur le fond de tarte.
+- Recouvrir avec les tranches de coppa restantes et enfourner à 180°C (355°F) pendant 45 mn environ.
