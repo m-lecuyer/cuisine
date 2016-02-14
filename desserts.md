@@ -21,6 +21,7 @@ icon: whisk-small.png
 - [Boules de neige](/desserts#boule-neige)
 - [Tiramisu](/desserts#tiramisu)
 - [Tarte amandine aux poires](/desserts#tarte-poires)
+- [Cake banane chocolat](/desserts#cake-banane-chocolat)
 
 ### <a name="gateau-chocolat"></a> Gâteau au chocolat (by Mathias)
 
@@ -377,3 +378,26 @@ Préparation:
 - Etalez la pâte brisée au fond d'un moule à tarte. Piquez-en le fond et versez-y le mélange.
 - Placez enfin les poires sur le mélange en les enfonçant délicatement.
 - Mettez à cuire 30 mn à 180°C (355°F)
+
+_____________________________
+
+### <a name="cake-banane-chocolat"></a> Cake banane chocolat (par Mathias)
+
+Très facile et délicieux:
+
+110g de beurre
+110g de sucre
+2 œufs
+220g de farine
+1 cuillère à café de bicarbonate de soude
+1/2 cuillère à café de sel
+3 ou 4 bananes normales très mûres
+150ml de lait
+150g de pépites de chocolat noir
+Préchauffez le four à 160°C (chaleur tournante), sinon 180°C.
+
+- Beurrez le moule à cake.
+- Dans un saladier, mélangez la farine, le bicarbonate et le sel.
+- Faire fondre le beurre. Mélangez-le au sucre et fouettez jusqu’à ce que le mélange blanchisse. Ajoutez ensuite les œufs un par un en continuant de battre, puis ajoutez le mélange à base de farine. Mélangez bien. Ajoutez ensuite le lait. Votre pâte doit être homogène.
+- Écrasez les bananes grossièrement à la fourchette, ajoutez les à la pâte. Mélangez délicatement puis ajoutez enfin les pépites de chocolat.
+- Versez la préparation dans le moule préalablement beurré puis enfournez pour 1 heure de cuisson. Vérifiez la bonne cuisson du cake en y plantant la lame d’un couteau. Elle doit ressortir sèche.
