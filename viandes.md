@@ -5,7 +5,7 @@ order: 2
 icon: meat3-small.png
 ---
 
-[Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti) - [Emincé de dinde au paprika](/viandes#dinde-paprika) - [Cuisse de dinde marinée au four](/viandes#cuisse-dinde) - [Lasagnes à la Bolognèse](/viandes#lasagnes-bolognese) - [Sot-l'y-laisse de dinde façon tajine](/viandes#sot-l'y-laisse) - [Goulash hongroise traditionnelle](/viandes#goulash-hongroise)
+[Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti) - [Emincé de dinde au paprika](/viandes#dinde-paprika) - [Cuisse de dinde marinée au four](/viandes#cuisse-dinde) - [Lasagnes à la Bolognèse](/viandes#lasagnes-bolognese) - [Sot-l'y-laisse de dinde façon tajine](/viandes#sot-l'y-laisse) - [Goulash hongroise traditionnelle](/viandes#goulash-hongroise) - [Filets de poulet panés](/viandes#poulet-panes)
 
 ### <a name="brisket"></a> Slow-roasted brisket à l'américaine (by Joséphine)
 
@@ -308,3 +308,31 @@ Pour les tchipetka :
 
 *Remarques :
 C'est un plat complet et consistant, on peut remplacer le boeuf par du poulet de la poule ou du veau.*
+
+
+_________________________________
+
+### <a name="poulet-panes"></a> Filets de poulet panés (par Mathias)
+
+C'est cette <a href="http://www.cuisineaz.com/recettes/filets-de-poulet-panes-55434.aspx">recette</a>, qui est très bonne. J'ajoute un peu de parmesan ou comté rapé au mélange pané, et c'est encore meilleur !
+
+Ingrédients:
+
+- 4 filets de poulet
+- 1 œuf
+- 3 biscottes ou panure
+- 1 c. à soupe de farine
+- herbes de Provence
+- sel
+
+ÉTAPE 1
+Battez un oeuf avec une cuil. à café d'herbes de Provence.
+
+ÉTAPE 2
+Ecrasez 3 bisocttes ou 30 g de panure et mélangez avec 1 c. à soupe de farine. Salez.
+
+ÉTAPE 3
+Trempez chaque filet de poulet dans l'œuf, puis dans votre préparation à base de biscotte et de farine.
+
+ÉTAPE 4
+Faites chauffer 2 c. à soupe d'olive dans une poêle. Déposez-y les filets et faites frire 5 min, de chaque côté.
