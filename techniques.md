@@ -84,6 +84,9 @@ Préparation :
 - Abaisser la pâte puis tapisser le moule en plaquant bien la pâte dans les coins.
 - Laisser au frigo encore 20-30 min (pour éviter l'affaissement durant la cuisson)
 
+
+Une recette plus simple: http://www.marmiton.org/recettes/recette_pate-sablee-facile_28755.aspx
+
 _______________________
 
 ### <a name="baguette"></a> Baguette maison pour les expat'! (by Arnaud)

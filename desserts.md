@@ -379,6 +379,9 @@ Préparation:
 - Placez enfin les poires sur le mélange en les enfonçant délicatement.
 - Mettez à cuire 30 mn à 180°C (355°F)
 
+*Recette alternative (Mathias)*
+
+<img src="/public/recette_tarte_poire_choc_amandes.jpg" height="319">
 _____________________________
 
 ### <a name="cake-banane-chocolat"></a> Cake banane chocolat (par Mathias)
