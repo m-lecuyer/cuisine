@@ -85,7 +85,8 @@ Préparation :
 - Laisser au frigo encore 20-30 min (pour éviter l'affaissement durant la cuisson)
 
 
-Une recette plus simple: http://www.marmiton.org/recettes/recette_pate-sablee-facile_28755.aspx
+Une recette plus
+[simple](http://www.marmiton.org/recettes/recette_pate-sablee-facile_28755.aspx).
 
 _______________________
 
