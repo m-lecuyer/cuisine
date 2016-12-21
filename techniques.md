@@ -6,7 +6,7 @@ icon: techniques-small.png
 ---
 
 [Conversion des unités US/EU](/techniques#conversion) - [Pâte brisée](/techniques#pate-quiche) - [Pâte à
-pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir) - [Pâte sablée](/techniques#pate-sable) - [Baguette maison](/techniques#baguette)
+pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir) - [Pâte sablée](/techniques#pate-sable) - [Baguette maison](/techniques#baguette) - [Pâte à crêpes](/techniques#crepes)
 
 ### <a name="conversion"></a> Conversion des unités US/EU
 
@@ -114,3 +114,9 @@ Préparation :
 - Préchauffer le four à 240°C/480°F
 - Couper la boule en deux, et façonner deux "serpents" de pâte de longueur/largeur désirée et les placer sur une plaque de cuisson légèrement huilée.
 - Saupoudrer les baguettes de farine et inciser le dessus (avec des ciseaux ou un couteau bien aiguisé) avant d'enfourner 30 min. Pour avoir une croute bien croustillante, il faut placer un récipient contenant de l'eau dans le four pendant la cuisson.
+
+_______________________
+
+### <a name="crepes"></a> Pâte à crêpes
+
+[Recette odelices](http://www.odelices.com/recette/pate-a-crepes-r100/) qu'on aime bien (Joséphine & Mathias)
