@@ -5,7 +5,7 @@ order: 2
 icon: meat3-small.png
 ---
 
-[Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti) - [Emincé de dinde au paprika](/viandes#dinde-paprika) - [Cuisse de dinde marinée au four](/viandes#cuisse-dinde) - [Lasagnes à la Bolognèse](/viandes#lasagnes-bolognese) - [Sot-l'y-laisse de dinde façon tajine](/viandes#sot-l'y-laisse) - [Goulash hongroise traditionnelle](/viandes#goulash-hongroise) - [Filets de poulet panés](/viandes#poulet-panes)
+[Slow-roasted brisket](/viandes#brisket) - [Filet mignon](/viandes#filet-mignon) - [Rôti de porc gros appétits](/viandes#roti-porc) - [Poulet rôti](/viandes#poulet-roti) - [Emincé de dinde au paprika](/viandes#dinde-paprika) - [Cuisse de dinde marinée au four](/viandes#cuisse-dinde) - [Lasagnes à la Bolognèse](/viandes#lasagnes-bolognese) - [Sot-l'y-laisse de dinde façon tajine](/viandes#sot-l'y-laisse) - [Goulash hongroise traditionnelle](/viandes#goulash-hongroise) - [Filets de poulet panés](/viandes#poulet-panes) - [Hachis Parmentier](/viandes#parmentier)
 
 ### <a name="brisket"></a> Slow-roasted brisket à l'américaine (by Joséphine)
 
@@ -336,3 +336,15 @@ Trempez chaque filet de poulet dans l'œuf, puis dans votre préparation à base
 
 ÉTAPE 4
 Faites chauffer 2 c. à soupe d'olive dans une poêle. Déposez-y les filets et faites frire 5 min, de chaque côté.
+
+_________________________________
+
+### <a name="parmentier"></a> Hachis Parmentier (par papa)
+
+Adapté de cette <a href="http://www.marmiton.org/recettes/recette_hachis-parmentier_17639.aspx">recette</a>, pour un bien plus gros plat:
+
+Changements:
+
+- ~ 1.5kg de patates
+- 450 de viande
+- plus de fromage
