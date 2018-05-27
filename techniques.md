@@ -120,3 +120,5 @@ _______________________
 ### <a name="crepes"></a> Pâte à crêpes
 
 [Recette odelices](http://www.odelices.com/recette/pate-a-crepes-r100/) qu'on aime bien (Joséphine & Mathias)
+[Ou celle là](https://www.hervecuisine.com/recette/crepes-de-la-chandeleur/ qu'on aime bien (Joséphine & Mathias)
+
