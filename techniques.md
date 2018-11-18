@@ -6,7 +6,7 @@ icon: techniques-small.png
 ---
 
 [Conversion des unités US/EU](/techniques#conversion) - [Pâte brisée](/techniques#pate-quiche) - [Pâte à
-pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir) - [Pâte sablée](/techniques#pate-sable) - [Baguette maison](/techniques#baguette) - [Pâte à crêpes](/techniques#crepes)
+pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir) - [Pâte sablée](/techniques#pate-sable) - [Baguette maison](/techniques#baguette) - [Pâte à crêpes](/techniques#crepes) - [Chocolate spread](/techniques#choco-spread)
 
 ### <a name="conversion"></a> Conversion des unités US/EU
 
@@ -119,6 +119,23 @@ _______________________
 
 ### <a name="crepes"></a> Pâte à crêpes
 
-[Recette odelices](http://www.odelices.com/recette/pate-a-crepes-r100/) qu'on aime bien (Joséphine & Mathias)
-[Ou celle là](https://www.hervecuisine.com/recette/crepes-de-la-chandeleur/ qu'on aime bien (Joséphine & Mathias)
+- [Recette odelices](http://www.odelices.com/recette/pate-a-crepes-r100/) qu'on aime bien (Joséphine & Mathias)
+- [Ou celle là](https://www.hervecuisine.com/recette/crepes-de-la-chandeleur/ qu'on aime bien (Joséphine & Mathias)
+
+_______________________
+
+### <a name="choco-spread"></a> Chocolate spread
+
+D'abord, faire un lait concentré:
+
+- Dans une grande casserole, portez à ébullition 250ml de lait et 100g de sucre.
+- Baissez alors immédiatement à feu doux (il ne faudrait pas que ça déborde). Et laissez cuire à petits frémissement pendant 1 heure. Remuez très régulièrement, la préparation va alors réduire de moitié et changer de couleur en caramel très clair.
+- Laissez refroidir à température ambiante en mélangeant de temps en temps et versez votre lait concentré sucré dans des pots à confiture. En refroidissant, le lait concentré sucré va encore s'épaissir légèrement.
+
+Ensuite faire le spread:
+
+- Dans une casserole à feu doux, faire fondre le chocolat noir (200g) avec le lait concentré sucré tout en remuant.
+- Une fois fondu, ajouter le lait (100ml), le beurre (50/75g), le sucre glace (2 ou 3 cuillères à soupe). Toujours en remuant, laisser les ingrédients fondre et se lier. Puis, baisser le feu à très doux ou retirer du feu le temps de mixer avec un mixeur plongeant la poudre de noisette (je mets amande, ~80g) de façon à obtenir une sorte de pâte de noisette.
+- Puis remettre sur le feu doux 2 min en y incorporant cette pâte de noisette obtenue. Laisser refroidir avant de déguster.
+
 
