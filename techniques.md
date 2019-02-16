@@ -121,14 +121,14 @@ _______________________
 
 Recette:
 
-- 250g de farine (faire un creux a millieu)
-- 4 oeufs (metter au milleu de la farine - mélanger pour incorporer la farine petit à petit)
+- 250g de farine (faire un creux a milieu)
+- 4 oeufs (mettre au milieu de la farine - mélanger pour incorporer la farine petit à petit)
 - 500ml de lait pas trop froid (incorporer au fur et à mesure que le mélange oeufs farine devient trop épais pour tourner)
 - 40 ou 50g de beurre (dans la pâte, fondu, à la fin)
 - un peu d'extrais de vanille liquide
 - un peu de rhum si on veut
 
-Je rajoute un peu de lait à la fin (peut etre 100 ou 200ml peut être) pour avoir la consistance qui me plait. Par besoin de reposer ni de beurrer la poele.
+Je rajoute un peu de lait à la fin (peut etre 100 ou 200ml peut être) pour avoir la consistance qui me plait. Par besoin de reposer ni de beurrer la poêle.
 
 Mélange de:
 
