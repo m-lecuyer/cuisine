@@ -106,6 +106,21 @@ Préparation:
 - Badigeonner avec le jaune du 3ème oeuf. Faire un quadrillage à la fourchette.
 - Faire cuire +/- 30 min dans le four chauffé à 200°C (400°F).
 
+**Encore une recette :**
+
+- mélanger sucre (125g), beurre mou (60g), poudre d’amande (150g), 1 gousse vanille
+- ajouter 2 oeufs et 3 càs de rhum
+- 1er rond de pate f : piquer fourchette, mouiller contour pinceau + eau (ou jaune oeuf), poser à plat la frangipane en laissant une marge d’au moins 2 cm
+- poser le 2nd cercle de pate
+- fermer en pincant les 2 pate puis chiquer avec un couteau
+- galette au frais 15 mn
+- retourner la galette (effet plat)
+- dorer
+- dessiner des motifs
+- enfourner 40 mn à 180 degres C
+- preparer un sirop (25g sucre blanc + 25 g d’eau a feu maximum 2 mn
+- a la sortie du four glacer la galette avec le sirop
+
 _______________________
 
 ### <a name="tarte-citron"></a> Tarte au citron meringuée (par Maman)
