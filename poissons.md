@@ -32,3 +32,24 @@ _______________________________________
 ### <a name="fenouil"></a> Crevettes au fenouil et lait de coco (by Mathias)
 
 [Plat](https://www.kpourkatrine.com/fr/recettes/crevettes-fenouil-lait-de-coco/) accompagné de [riz au curcuma](https://www.kpourkatrine.com/fr/recettes/155-2/).
+
+
+ - 2 c. à soupe (30 ml) d’huile d’olive
+- 1 bulbe de fenouil, émincé
+- 1 oignon, émincé
+- 675 g (1 1/2 lb)  de crevettes, décortiquées et déveinées
+- 3 gousses d’ail, hachées
+- 1 c. à thé (5 ml) de poudre de cari
+- 1/4 de tasse (60 ml) de Pastis ou vin blanc
+- 2/3 tasse (150 ml) de lait de coco Haiku en boîte, bien brassé
+- 1/3 de tasse (80 ml) de bouillon de poulet
+- 1 tasse (250 ml) de tomates cerises, en dés
+- 1/4 de tasse (60 ml) de persil plat, haché
+- sel et poivre
+
+
+- Dans un poêlon, à feu moyen, faire revenir dans l’huile le fenouil et l’oignon quelques minutes.
+- Ajouter les crevettes, l’ail et la poudre de cari et cuire encore 2 minutes en brassant.
+- Déglacer avec le Pastis et cuire 1 minute.
+- Ajouter le lait de coco, le bouillon de poulet et les tomates. Saler, poivrer et poursuivre la cuisson en laissant mijoter à feu doux encore 4 minutes.
+- Servir avec le riz au curcuma et au cari puis saupoudrer de persil haché.
