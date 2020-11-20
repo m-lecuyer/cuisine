@@ -33,6 +33,7 @@ _______________________________________
 
 [Plat](https://www.kpourkatrine.com/fr/recettes/crevettes-fenouil-lait-de-coco/) accompagné de [riz au curcuma](https://www.kpourkatrine.com/fr/recettes/155-2/).
 
+Ingrédients:
 
  - 2 c. à soupe (30 ml) d’huile d’olive
 - 1 bulbe de fenouil, émincé
@@ -47,6 +48,7 @@ _______________________________________
 - 1/4 de tasse (60 ml) de persil plat, haché
 - sel et poivre
 
+Préparation:
 
 - Dans un poêlon, à feu moyen, faire revenir dans l’huile le fenouil et l’oignon quelques minutes.
 - Ajouter les crevettes, l’ail et la poudre de cari et cuire encore 2 minutes en brassant.
