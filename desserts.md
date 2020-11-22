@@ -413,7 +413,7 @@ Inspiré de [cette recette](https://www.afamilyfeast.com/bog-hollow-cranberry-br
 Ingrédients:
 
 - 150g chocolate.
-- 110g butter.
+- 150g butter.
 - 1/2 cup (100g) sugar.
 - 3 eggs, slightly beaten.
 - 1 teaspoon vanilla.
@@ -430,7 +430,7 @@ Instructions:
 - Blend in the eggs and vanilla, stirring to combine as much as possible (there may be some egg that doesn’t completely mix in – that is perfectly fine).
 - Add flour and mix thoroughly.
 - Then add the cranberries and stir to evenly combine.
-- Pour the batter into the prepared pan. Bake for 30 to 35 minutes or until a toothpick inserted into the center comes out with fudgy crumbs. (Do not over bake – these are very moist and fudgy brownies.)
+- Pour the batter into the prepared pan. Bake for 20 to 25 minutes or until a toothpick inserted into the center comes out with fudgy crumbs. (Do not over bake – these are very moist and fudgy brownies.)
 
 
 
