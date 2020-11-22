@@ -5,24 +5,7 @@ order: 4
 icon: whisk-small.png
 ---
 
-[Gâteau au chocolat](/desserts#gateau-chocolat)
-- [Fondant au chocolat](/desserts#fondant)
-- [Cookies](/desserts#cookies)
-- [Galette des rois](/desserts#galette)
-- [Tarte au citron meringuée](/desserts#tarte-citron)
-- [Tarte pommes-amandes](/desserts#tarte-pommes-amandes)
-- [Brownies](/desserts#brownies)
-- [Gâteau aux amandes](/desserts#gateau-amandes)
-- [Gâteau poire-chocolat](/desserts#gateau-poire-chocolat)
-- [Moelleux au chocolat individuels](/desserts#moelleux-chocolat-individuels)
-- [Far breton aux pruneaux](/desserts#far-breton-pruneaux)
-- [Tarte amandine à la banane](/desserts#tarte-amandine-bananes)
-- [Gateau aux blancs d'oeufs](/desserts#blancs-oeufs)
-- [Boules de neige](/desserts#boule-neige)
-- [Tiramisu](/desserts#tiramisu)
-- [Tarte amandine aux poires](/desserts#tarte-poires)
-- [Cake banane chocolat](/desserts#cake-banane-chocolat)
-- [Cranberry Brownies](/desserts#cranberry-brownies)
+[Gâteau au chocolat](/desserts#gateau-chocolat) - [Fondant au chocolat](/desserts#fondant) - [Cookies](/desserts#cookies) - [Galette des rois](/desserts#galette) - [Tarte au citron meringuée](/desserts#tarte-citron) - [Tarte pommes-amandes](/desserts#tarte-pommes-amandes) - [Brownies](/desserts#brownies) - [Gâteau aux amandes](/desserts#gateau-amandes) - [Gâteau poire-chocolat](/desserts#gateau-poire-chocolat)- [Moelleux au chocolat individuels](/desserts#moelleux-chocolat-individuels) - [Far breton aux pruneaux](/desserts#far-breton-pruneaux) - [Tarte amandine à la banane](/desserts#tarte-amandine-bananes) - [Gateau aux blancs d'oeufs](/desserts#blancs-oeufs) - [Boules de neige](/desserts#boule-neige)- [Tiramisu](/desserts#tiramisu) - [Tarte amandine aux poires](/desserts#tarte-poires) - [Cake banane chocolat](/desserts#cake-banane-chocolat) - [Cranberry Brownies](/desserts#cranberry-brownies)
 
 ### <a name="gateau-chocolat"></a> Gâteau au chocolat (by Mathias)
 
