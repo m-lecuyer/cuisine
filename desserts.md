@@ -429,7 +429,7 @@ Inspiré de [cette recette](https://www.afamilyfeast.com/bog-hollow-cranberry-br
 
 Ingrédients:
 
-- 200g chocolate.
+- 150g chocolate.
 - 110g butter.
 - 1/2 cup (100g) sugar.
 - 3 eggs, slightly beaten.
