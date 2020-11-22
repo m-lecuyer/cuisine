@@ -5,12 +5,7 @@ order: 1
 icon: salad-small.png
 ---
 
-[Salade au Quinoa](/entrees#quinoa)
-- [Quiche brocolis et saumon fumé](/entrees#quiche-saumon-brocolis)
-- [Tarte tomate / moutarde](/entrees#tarte-tomate-moutarde)
-- [Quiche Lorraine](/entrees#lorraine)
-- [Pizza épinards chèvre](/entrees#epinard-chevre)
-- [Tarte ricotta, courgettes et coppa](/entrees#tarte-ricotta)
+[Salade au Quinoa](/entrees#quinoa) - [Quiche brocolis et saumon fumé](/entrees#quiche-saumon-brocolis) - [Tarte tomate / moutarde](/entrees#tarte-tomate-moutarde) - [Quiche Lorraine](/entrees#lorraine) - [Pizza épinards chèvre](/entrees#epinard-chevre) - [Tarte ricotta, courgettes et coppa](/entrees#tarte-ricotta)
 
 
 ### <a name="quinoa"></a> Salade au Quinoa (by Joséphine & Mathias)
