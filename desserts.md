@@ -22,6 +22,7 @@ icon: whisk-small.png
 - [Tiramisu](/desserts#tiramisu)
 - [Tarte amandine aux poires](/desserts#tarte-poires)
 - [Cake banane chocolat](/desserts#cake-banane-chocolat)
+- [Cranberry Brownies](/desserts#cranberry-brownies)
 
 ### <a name="gateau-chocolat"></a> Gâteau au chocolat (by Mathias)
 
@@ -419,3 +420,34 @@ Préchauffez le four à 160°C (chaleur tournante), sinon 180°C.
 - Faire fondre le beurre. Mélangez-le au sucre et fouettez jusqu’à ce que le mélange blanchisse. Ajoutez ensuite les œufs un par un en continuant de battre, puis ajoutez le mélange à base de farine. Mélangez bien. Ajoutez ensuite le lait. Votre pâte doit être homogène.
 - Écrasez les bananes grossièrement à la fourchette, ajoutez les à la pâte. Mélangez délicatement puis ajoutez enfin les pépites de chocolat.
 - Versez la préparation dans le moule préalablement beurré puis enfournez pour 1 heure de cuisson. Vérifiez la bonne cuisson du cake en y plantant la lame d’un couteau. Elle doit ressortir sèche.
+
+_____________________________
+
+### <a name="cranberry-brownies"></a> Cranberry Brownies (par Mathias)
+
+Inspiré de [cette recette](https://www.afamilyfeast.com/bog-hollow-cranberry-brownies/), avec quelques changements.
+
+Ingrédients:
+
+- 200g chocolate.
+- 110g butter.
+- 1/2 cup (100g) sugar.
+- 3 eggs, slightly beaten.
+- 1 teaspoon vanilla.
+- 1 cup (130g) all-purpose flour.
+- 1/2 cup (65g) of hazelnut or almond flour.
+- 1.5 cups whole fresh cranberries.
+
+Instructions:
+
+- Preheat the oven to 350F (180C).
+- Butter the pan.
+- Melt the chocolate and butter.
+- Stir in the sugar.
+- Blend in the eggs and vanilla, stirring to combine as much as possible (there may be some egg that doesn’t completely mix in – that is perfectly fine).
+- Add flour and mix thoroughly.
+- Then add the cranberries and stir to evenly combine.
+- Pour the batter into the prepared pan. Bake for 30 to 35 minutes or until a toothpick inserted into the center comes out with fudgy crumbs. (Do not over bake – these are very moist and fudgy brownies.)
+
+
+
