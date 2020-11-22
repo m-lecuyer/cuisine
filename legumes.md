@@ -5,11 +5,7 @@ order: 3
 icon: legumes-small.png
 ---
 
-[Ratatouille](/legumes#ratatouille)
-- [Pot-au-feu](/legumes#potaufeu)
-- [Potée](/legumes#potee)
-- [Chorizo Lentilles](/legumes#chorizo-lentilles)
-- [Potage de courge butternut](/legumes#potage-butternut)
+[Ratatouille](/legumes#ratatouille) - [Pot-au-feu](/legumes#potaufeu) - [Potée](/legumes#potee) - [Chorizo Lentilles](/legumes#chorizo-lentilles) - [Potage de courge butternut](/legumes#potage-butternut)
 
 ### <a name="ratatouille"></a> Ratatouille (by Joséphine & Mathias)
 
