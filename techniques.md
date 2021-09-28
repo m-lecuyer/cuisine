@@ -6,7 +6,7 @@ icon: techniques-small.png
 ---
 
 [Conversion des unités US/EU](/techniques#conversion) - [Pâte brisée](/techniques#pate-quiche) - [Pâte à
-pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir) - [Pâte sablée](/techniques#pate-sable) - [Baguette maison](/techniques#baguette) - [Pâte à crêpes](/techniques#crepes) - [Chocolate spread](/techniques#choco-spread)
+pizza](/techniques#pate-pizza) - [Blanchir les légumes](/techniques#blanchir) - [Pâte sablée](/techniques#pate-sable) - [Baguette maison](/techniques#baguette) - [Pâte à crêpes](/techniques#crepes) - [Chocolate spread](/techniques#choco-spread) - [Pain moulé](/techniques#pain-moule)
 
 ### <a name="conversion"></a> Conversion des unités US/EU
 
@@ -150,5 +150,12 @@ Ensuite faire le spread:
 - Dans une casserole à feu doux, faire fondre le chocolat noir (200g) avec le lait concentré sucré tout en remuant.
 - Une fois fondu, ajouter le lait (100ml), le beurre (50/75g), le sucre glace (2 ou 3 cuillères à soupe). Toujours en remuant, laisser les ingrédients fondre et se lier. Puis, baisser le feu à très doux ou retirer du feu le temps de mixer avec un mixeur plongeant la poudre de noisette (je mets amande, ~80g) de façon à obtenir une sorte de pâte de noisette.
 - Puis remettre sur le feu doux 2 min en y incorporant cette pâte de noisette obtenue. Laisser refroidir avant de déguster.
+
+_______________________
+
+### <a name="pain-moule"></a> Pain moulé
+
+https://dupainsurlaplancheounourrirsatribu.blog4ever.com/pain-moule-a-la-pate-magique-1
+
 
 
