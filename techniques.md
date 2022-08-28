@@ -115,6 +115,32 @@ Préparation :
 - Couper la boule en deux, et façonner deux "serpents" de pâte de longueur/largeur désirée et les placer sur une plaque de cuisson légèrement huilée.
 - Saupoudrer les baguettes de farine et inciser le dessus (avec des ciseaux ou un couteau bien aiguisé) avant d'enfourner 30 min. Pour avoir une croute bien croustillante, il faut placer un récipient contenant de l'eau dans le four pendant la cuisson.
 
+#### Version de Mathias
+
+Pour 2 baguettes.
+
+Ingrédients:
+
+- 400g de farine classique
+- 8g de sel
+- 6g de levure traditionnelle (dried yeast)
+- 300 ml d’eau tiède
+- une cuillère de sucre
+
+Préparation :
+
+- Dans un grand saladier, diluer la levure avec un peu d'eau tiède et une cuillère de sucre pendant 10 minutes
+- Ajouter le restant d'eau, bien mélanger puis y incorporer le mélange farine/sel jusqu'à obtenir une pâte homogène.
+- Sortir la pâte du saladier sur un lit de farine, et la pétrir (environ 10min) en la repliant sur elle-même plusieurs fois tout en la saupoudrant de farine si elle colle aux mains, jusqu'à obtenir une pâte assez lisse qui ne colle plus trop.
+- Laisser gonfler la pâte pendant la nuit (~12h), dans un saladier couvert d'un torchon (on peut ajouter un fine couche d'huile d'olive pour qu'elle colle moins).
+- Sortir de nouveau la pâte du saladier sur un lit de farine, la dégazer en appuiyant dessus, la pétrir un peu, et couper la boule en deux, avant de former deux baguettes (en roulant dans la farine) et les placer sur une plaque de cuisson légèrement huilée.
+- Laisser reposer de nouveau 1h à 1h30.
+- Préchauffer le four à 240°C/480°F (avec un récipient rempli d'eau sur la grille la plus basse, pour humidifier le four).
+- Saupoudrer les baguettes de farine si besoin, et inciser le dessus (avec des ciseaux ou un couteau bien aiguisé).
+- Enfourner 20 minutes, en laissant le récipient rempli d'eau dans le four (l'humidité forme la croute). C'est à ce moment qu'on peut congeler le pain avant la dernière étape.
+- Retirer l'eau, et laisser 10 minutes de plus sans humidité pour un baguette croustillante.
+
+
 _______________________
 
 ### <a name="crepes"></a> Pâte à crêpes
